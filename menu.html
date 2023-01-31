@@ -1,0 +1,123 @@
+    <html>
+      <head>
+        <title>Sergio Mac&#237;as</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <script type="text/javascript" language="JavaScript" src="jquery-1.9.1.min.js"></script>
+        <script type="text/javascript" language="JavaScript">
+
+        function menu(obj)
+        {
+
+            $("span.menu a").removeClass("selected");
+            $(obj).addClass("selected");
+
+
+        }
+
+        </script>
+        <style type="text/css">
+
+        body {
+            font-size:11pt; font-family:Calibri,Verdana, sans-serif;
+            background: linear-gradient(to right, #000000, #404040, #000000);
+            color: #636363;
+        }
+
+        a {
+            color: #8F8F8F;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: none;
+        }
+
+        a:active {
+            color: rgba(0,152,164,1);
+            }
+
+        span.papertitle {
+            color: rgba(0,152,164,1);
+        }
+
+        div.header{
+            margin:20px;
+            margin-right:40px;
+            margin-left:40px;
+            background: black;
+            font-size:48pt;
+            background-image: linear-gradient(to left bottom, #404040 10%, #000000 24%);
+        }
+
+        div.main{
+            width:100%;
+        }
+
+        div.entry{
+            margin:10px;
+        }
+
+        span.menu {
+            float: right;
+            font-size:14pt;
+            top:20px;
+        }
+
+        span.menu a {
+            margin:10px;
+        }
+
+        span.menu a.selected {
+            color: rgba(0,152,164,1);
+        }
+
+
+
+        div.entry-btm{
+            width:800px;
+            min-height:100px;
+            background: linear-gradient( #000000, #202020);
+            border:1px solid;
+            margin: 0px auto;
+            border-bottom-right-radius:25px;
+            border-color:black;
+            padding:20px;
+            padding-top:10px;
+            display:block;
+            box-shadow: 5px 5px 3px #101010;
+            vertical-align:top;
+        }
+
+        a.MathScinet, a.Zentralblatt{
+            margin:5px;
+        }
+
+        span.files {
+            float: right;
+            height: 24px;
+            display:inline-block;
+        }
+
+        a.pdf{
+            background: url(images/pdf.gif) no-repeat left top;
+        }
+      </style>
+      </head>
+      <body>
+        <div class="fondo">
+          <div class="main">
+            <div class="header">
+              <a href="http://www.matem.unam.mx/~sergiom/">Sergio Mac&#237;as</a>
+              <!-- End #logo -->
+              <span class="menu">
+                    <a href="papers.xml" class="selected" onclick="menu(this)">Research Papers</a>
+                    <a href="books.xml" onclick="menu(this)">Books</a>
+                    <a href="publications.xml" onclick="menu(this)">Non-Research Papers</a>
+                    <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=40364" onclick="menu(this)">Genealogy</a>
+              </span>
+
+              </div></div></div>
+
+              </body>
+              </html>

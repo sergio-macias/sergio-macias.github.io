@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="publications.xsl"?>
+
+<papers>
+<nonResearch>
+
+
+<paper  num="1">
+<title eng="The Structure of Smooth Dendroids">La Estructura de los Dendroides Suaves</title>
+<coauthors />
+<magazine vol="10" year="1993" begin-page="xxx" end-page="xxx">Aportaciones Matemáticas de la Sociedad Matemática Mexicana</magazine>
+<link type="MathSciNet" code="MR1302922" ref="95k:54060">https://mathscinet.ams.org/mathscinet-getitem?mr=1302922</link>
+<link type="Zentralblatt" code="Zbl 0859.54023">http://zbmath.org/?q=an:0859.54023</link>
+</paper>
+
+
+<paper  num="2">
+<title eng="A Little Bit of Homogeneous Continua">Un Poco de Continuos Homogéneos - Memorias del XXIX Congreso de Matemáticas de la Sociedad Matemática Mexicana</title>
+<coauthors />
+<magazine vol="20" year="1997" begin-page="109" end-page="116">Aportaciones Matemáticas de la Sociedad Matemática Mexicana</magazine>
+<link type="MathSciNet" code="MR1653816" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=1653816</link>
+<link type="Zentralblatt" code="Zbl 0926.54023">http://zbmath.org/?q=an:0926.54023</link>
+<link type="Academia.edu" code="93805138">https://www.academia.edu/93805138/</link>
+</paper>
+
+
+<paper  num="3">
+<title eng="Hyperspaces and Symmetric Products">Hiperespacios y Productos Simétricos de Continuos - Memorias del XXXII Congreso de Matemáticas de la Sociedad Matemática Mexicana</title>
+<coauthors />
+<magazine vol="27" year="2000" begin-page="211" end-page="223">Aportaciones Matemáticas, Comunicaciones, Sociedad Matemática Mexicana</magazine>
+<link type="MathSciNet" code="MR1939423" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=1939423</link>
+<link type="Zentralblatt" code="Zbl 1127.54306">http://zbmath.org/?q=an:1127.54306</link>
+<link type="Academia.edu" code="93805368">https://www.academia.edu/93805368/</link>
+</paper>
+
+
+<paper  num="4">
+<title eng="Do we know the Power Set?">¿Conocemos al Conjunto Potencia?</title>
+<coauthors />
+<magazine vol="June" year="2002" begin-page="1" end-page="3">Carta Informativa de la Sociedad Matemática Mexicana</magazine>
+<file type="pdf"  free="yes">pdf/ConjuntoPotencia.pdf</file>
+<link type="Academia.edu" code="93791622">https://www.academia.edu/93791622/</link>
+</paper>
+
+<paper  num="5">
+<title eng="About the Klein bottle and some of its 'friends'">Sobre la botella de Klein y algunos de sus "amigos"</title>
+<coauthors />
+<magazine vol="6" year="2003" begin-page="3" end-page="8">Laberintos e infinitos</magazine>
+<file type="pdf"  free="yes">pdf/Klein.pdf</file>
+<link type="Academia.edu" code="93792267">https://www.academia.edu/93792267/</link>
+</paper>
+
+
+<paper  num="6">
+<title eng="Introduction to Continuum Theory - Invitation to Continuum Theory and their Hyperspaces">Introducción a la Teoría de los Continuos - Invitación a la Teoría de los Continuos y sus Hiperespacios</title>
+<coauthors />
+<magazine vol="31" year="2006" begin-page="1" end-page="34">Aportaciones Matemáticas, Serie Textos, Sociedad Matemática Mexicana</magazine>
+<link type="MathSciNet" code="MR2320210" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=2320210</link>
+<link type="Zentralblatt" code="Zbl 1121.54053">http://zbmath.org/?q=an:1121.54053</link>
+<link type="Academia.edu" code="93806341">https://www.academia.edu/93806341/</link>
+</paper>
+
+
+
+<paper  num="7">
+<title eng="An Introduction to Inverse Limits - Invitation to Continuum Theory and their Hyperspaces">Una Introducción a los Límites Inversos - Invitación a la Teoría de los Continuos y sus Hiperespacios</title>
+<coauthors />
+<magazine vol="31" year="2006" begin-page="35" end-page="50">Aportaciones Matemáticas, Serie Textos, Sociedad Matemática Mexicana</magazine>
+<link type="MathSciNet" code="MR2320211" ref="2208b:54051">https://mathscinet.ams.org/mathscinet-getitem?mr=2320211</link>
+<link type="Zentralblatt" code="Zbl 1121.54053">http://zbmath.org/?q=an:1121.54053</link>
+<link type="Academia.edu" code="93806403">https://www.academia.edu/93806403/</link>
+</paper>
+
+
+<paper  num="8">
+<title eng="On Jones's Set Function $\mathcal{T}$ - Invitation to Continuum Theory and their Hyperspaces">Sobre la Función $\mathcal{T}$ de Jones - Invitación a la Teoría de los Continuos y sus Hiperespacios</title>
+<titlt eng="On Jones's Set Function T - Invitation to Continuum Theory and their Hyperspaces">Sobre la Función T de Jones - Invitación a la Teoría de los Continuos y sus Hiperespacios</titlt>
+<coauthors>
+<coauthor name="María Antonieta Molina" />
+</coauthors>
+<magazine vol="31" year="2006" begin-page="85" end-page="102">Aportaciones Matemáticas, Serie Textos, Sociedad Matemática Mexicana</magazine>
+<link type="MathSciNet" code="MR2320213" ref="2008a:54012">https://mathscinet.ams.org/mathscinet-getitem?mr=2320213</link>
+<link type="Zentralblatt" code="Zbl 1121.54053">http://zbmath.org/?q=an:1121.54053</link>
+<link type="Academia.edu" code="93806421">https://www.academia.edu/93806421/</link>
+</paper>
+
+
+
+<paper  num="9">
+<title eng="A Brief Panorama of Hyperspaces of Continua">Un Breve Panorama de los Hiperespacios de Continuos</title>
+<coauthors />
+<magazine vol="23" year="2005" begin-page="1" end-page="13">Revista Integración (Temas de Matemáticas) de la Escuela de Matemáticas de la Universidad Industrial de Santander, Bucaramanga, Colombia</magazine>
+<link type="MathSciNet" code="MR2347342" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=2347342</link>
+<file type="pdf" >https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/384/635</file>
+<link type="Academia.edu" code="93792902">https://www.academia.edu/93792902/</link>
+</paper>
+
+<paper  num="10">
+<title eng="Topological properties of Jones's set function $\mathcal{T}$">Algunas propiedades topológicas y la función $\mathcal{T}$ de Jones</title>
+<titlt eng="Topological properties of Jones's set function T">Algunas propiedades topológicas y la función T de Jones</titlt>
+
+<coauthors />
+<magazine vol="xxx" year="2010" begin-page="290" end-page="298">Memorias de la Quinta Gran Semana de las Matemáticas de la Benemérita Universidad Autónoma de Puebla</magazine>
+<file type="pdf" >http://www.fcfm.buap.mx/cima/public/docs/publicaciones/Memorias5GSNM2010.pdf</file>
+<link type="Academia.edu" code="93793742">https://www.academia.edu/93793742/</link>
+</paper>
+
+<paper  num="11">
+<title eng="Weakly confluent images of the topologist sine curve">Imágenes débilmente confluentes de la curva sinusoidal del topólogo</title>
+<coauthors />
+<magazine vol="27" year="2009" begin-page="103" end-page="131">Revista Integración (Temas de Matemáticas) de la Escuela de Matemáticas, Universidad Industrial de Santander, Bucaramanga, Colombia</magazine>
+<link type="MathSciNet" code="MR2682664" ref="2011f:54047">https://mathscinet.ams.org/mathscinet-getitem?mr=2682664</link>
+<file type="pdf" >https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/745/1037</file>
+<link type="Academia.edu" code="93794057">https://www.academia.edu/93794057/</link>
+<link type="ResearchGate" code="238792259">https://www.researchgate.net/publication/238792259_Imagenes_debilmente_confluentes_de_la_curva_sinusoidal_del_topologo</link>
+</paper>
+
+<paper  num="12">
+<title eng="An introduction to homegeneous continua">Una introducción a los continuos homogéneos</title>
+<coauthors />
+<magazine vol="29" year="2011" begin-page="109" end-page="126">Revista Integración (Temas de Matemáticas) de la Escuela de Matemáticas, Universidad Industrial de Santander, Bucaramanga, Colombia</magazine>
+<file type="pdf" >https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/2553/2879</file>
+<link type="MathSciNet" code="MR2985148" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=2985148</link>
+<link type="Zentralblatt" code="Zbl 1291.54002">http://zbmath.org/?q=an:1291.54002</link>
+<link type="Academia.edu" code="93794558">https://www.academia.edu/93794558/</link>
+<link type="ResearchGate" code="262699682">https://www.researchgate.net/publication/262699682_An_introduction_to_homogeneous_continua</link>
+</paper>
+
+
+<paper  num="13">
+<title eng="An introduction to absolute retracts and absolute neighborhood retracts">Una introducción a los retractos absolutos y a los retractos de vecindad absolutos</title>
+<coauthors />
+<magazine vol="31" year="2013" begin-page="153" end-page="164">Revista Integración (Temas de Matemáticas) de la Escuela de Matemáticas, Universidad Industrial de Santander, Bucaramanga, Colombia</magazine>
+<file type="pdf" >https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/3754/4136</file>
+<link type="MathSciNet" code="3184400" >https://mathscinet.ams.org/mathscinet-getitem?mr=3184400</link>
+<link type="Zentralblatt" code="Zbl 1295.54022">http://zbmath.org/?q=an:1295.54022</link>
+<link type="Academia.edu" code="93794765">https://www.academia.edu/93794765/</link>
+<link type="ResearchGate" code="262429708">https://www.researchgate.net/publication/262429708_An_introduction_to_absolute_retracts_and_absolute_neighborhood_retracts</link>
+</paper>
+
+
+<paper  num="14">
+<title eng="On type $\theta$ and $\theta_n$ continua">Sobre los continuos tipo $\theta$ y $\theta_n$</title>
+<titlt eng="On type &#952; and &#952;n continua">Sobre los continuos tipo &#952; y &#952;n</titlt>
+<coauthors />
+<magazine vol="33" year="2015" begin-page="27" end-page="39">Revista Integración (Temas de Matemáticas) de la Escuela de Matemáticas, Universidad Industrial de Santander, Bucaramanga, Colombia</magazine>
+<file type="pdf" >https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/4767/4926</file>
+<link type="MathSciNet" code="3364655" >https://mathscinet.ams.org/mathscinet-getitem?mr=3364655</link>
+<link type="Zentralblatt" code="Zbl 1327.54034">http://zbmath.org/?q=an:1327.54034</link>
+<link type="Academia.edu" code="93795084">https://www.academia.edu/93795084/</link>
+
+</paper>
+
+
+
+<paper  num="15">
+<title eng="Special functions between continua, II">Funciones especiales entre continuos, II</title>
+<titlt eng="Special functions between continua, II">Funciones especiales entre continuos, II</titlt>
+<coauthors>
+<coauthor name="Franco Barragán" />
+<coauthor name="Anahí Rojas" />
+</coauthors>
+<magazine vol="5" year="2017" begin-page="1" end-page="23">Topología y sus aplicaciones (J. Angoa, R. Escobedo y M. Ibarra, editores), Textos Científicos,  B. U. A. P.  </magazine>
+<file type="pdf" >https://publicaciones.buap.mx/sites/default/files/top-%208.pdf</file>
+<link type="Academia.edu" code="93797823">https://www.academia.edu/93797823/</link>
+</paper>
+
+
+<paper  num="16">
+<title eng="The property of Kelley and continua">La propiedad de Kelley y continuos</title>
+<coauthors />
+<magazine vol="37" year="2019" begin-page="17" end-page="29">Revista Integración (Temas de Matemáticas) de la Escuela de Matemáticas, Universidad Industrial de Santander, Bucaramanga, Colombia</magazine>
+<file type="pdf" >https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/9361/9150</file>
+<link type="MathSciNet" code="MR3920740">https://mathscinet.ams.org/mathscinet-getitem?mr=3920740</link>
+<link type="Zentralblatt" code="Zbl 07104541">http://zbmath.org/?q=an:07104541</link>
+<link type="DOI" code="10.18273/revint.v37n1-2019002">https://doi.org/10.18273/revint.v37n1-2019002</link>
+<link type="Academia.edu" code="93795230">https://www.academia.edu/93795230/</link>
+</paper>
+
+<paper  num="17">
+<title eng="On Pointwise Smooth Dendroids">Sobre Dendroides Puntualmente Suaves</title>
+<coauthors />
+<magazine vol="40" year="2022" begin-page="137" end-page="158">Revista Integración (Temas de Matemáticas) de la Escuela de Matemáticas, Universidad Industrial de Santander, Bucaramanga, Colombia</magazine>
+<file type="pdf" >https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/13495/12555</file>
+<link type="MathSciNet" code="MR4483778" >https://mathscinet.ams.org/mathscinet-getitem?mr=4483778</link>
+<link type="Zentralblatt" code="xxx">xxx</link>
+<link type="DOI" code="10.18273/revint.v40n2-2022001">https://doi.org/10.18273/revint.v40n2-2022001</link>
+<link type="Academia.edu" code="93795392">https://www.academia.edu/93795392/</link>
+</paper>
+
+</nonResearch>
+</papers>

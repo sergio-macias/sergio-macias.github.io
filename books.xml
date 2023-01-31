@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+<books>
+
+<book>
+<title>Set Function $\mathcal{T}$, An account on F. B. Jones' Contributions to Topology</title>
+<subtitle>(From the backcover)</subtitle>
+<editorial date="July 27, 2018" series="Developments in Mathematics" hard-isbn="978-3-030-65080-3" e-isbn="978-3-030-65081-0" vol="67" year="2021" begin-page="xxx" end-page="xxx">Springer International Publishing</editorial>
+<image src="setFunctionT.png" link="https://www.springer.com/la/book/9783030650803" />
+
+<description
+text1="This book presents, in a clear and structured way, the set function $\mathcal{T}$ and how it evolved since its inception by Professor F. Burton Jones in the 1940s. It starts with a very solid introductory chapter, with all the prerequisite material for navigating through the rest of the book. It then gradually advances towards the main properties, Decomposition theorems, $\mathcal{T}$-closed sets, continuity and images, to modern applications."
+text2="The set function $\mathcal{T}$ has been used by many mathematicians as a tool to prove results about the semigroup structure of the continua, and about the existence of metric continuum that cannot be mapped onto its cone or to characterize spheres. Nowadays, it has been used by topologists worldwide to investigate open problems in continuum theory."
+
+text3="This book can be of interest to both advanced undergraduate and graduate students, and to experienced researchers as well. Its well-defined structure make this book suitable not only for self-study but also as support material to seminars on the subject. Its many open problems can potentially encourage mathematicians to contribute with further advancements in the field."
+/>
+
+<link type="Google Books" code="Google Books">https://books.google.com.mx/books?id=J_QkEAAAQBAJ&amp;lpg=PA1&amp;pg=PR1#v=onepage&amp;q&amp;f=false</link>
+
+<link type="MathSciNet" code="MR4238567" >https://mathscinet.ams.org/mathscinet-getitem?mr=4238567</link>
+
+<link type="Zentralblatt" code="Zbl 07301639">https://www.zbmath.org/?q=an:07301639</link>
+
+<link type="DOI" code="10.1007/978-3-030-65081-0">http://dx.doi.org/10.1007/978-3-030-65081-0</link>
+
+</book>
+
+<book>
+<title>Topics on Continua, Second Edition</title>
+<subtitle>(From the backcover)</subtitle>
+<editorial date="July 27, 2018" series="xxx" hard-isbn="978-3-319-90901-1" e-isbn="978-3-319-90902-8" soft-isbn="978-3-030-08127-0" vol="xxx" year="2018" begin-page="xxx" end-page="xxx">Springer International Publishing, AG, 2018</editorial>
+<image src="libro2ndEd.png" link="https://link.springer.com/book/10.1007%2F978-3-319-90902-8" />
+<description
+text1="This book is a significant companion text to the existing literature on continuum theory. It opens with background information of continuum theory, so often missing from the preceding publications, and then explores the following topics: inverse limits, the Jones set function T, homogenous continua, and n-fold hyperspaces. In this new edition of the book, the author builds on the aforementioned topics, including the unprecedented presentation of n-fold hyperspace suspensions and induced maps on n-fold hyperspaces."
+text2="The first edition of the book has had a remarkable impact on the continuum theory community. After twelve years, this updated version will also prove to be an excellent resource within the field of topology."
+/>
+
+<link type="MathSciNet" code="MR3823258" >https://mathscinet.ams.org/mathscinet-getitem?mr=3823258</link>
+<link type="Zentralblatt" code="Zbl 1403.54001">https://zbmath.org/?q=an:1403.54001</link>
+<link type="DOI" code="10.1007/978-3-319-90902-8">10.1007/978-3-319-90902-8</link>
+</book>
+
+
+<book>
+<title>Alberto Barajas - His work, his mathematics and his teachings</title>
+<subtitle>Edited by: Sergio Macías, Víctor Neumann-Lara and Isabel Puga.</subtitle>
+
+<subtitle></subtitle>
+<editorial date="2010" series="Aportaciones Matemáticas" isbn-10="978-607-02-0945-1" vol="xxx" year="2010" begin-page="xxx" end-page="xxx">Sociedad Matemática Mexicana</editorial>
+<image src="barajas.png" link="." />
+<description
+text1="This book is devoted to the Mexican mathematician Alberto Barajas Celis (1913–2004). The book starts with a few biographical notes about Barajas, mainly about his activities as one of the founders of mathematics as a scientific career in México, followed by a number of his expository lectures and a selection of his mathematical papers on relativity and number theory, including his master thesis and his doctoral thesis."
+
+/>
+<link type="Zentralblatt" code="Zbl 1197.01058">https://zbmath.org/?q=an:1197.01058</link>
+<link type="Instituto de Matematicas" code="Instituto de Matematicas">http://papirhos.matem.unam.mx/colecciones.html</link>
+</book>
+
+
+<book>
+<title>Continuum Theory: in Honor of David Bellamy on the Occasion of his 60th Birthday</title>
+<subtitle>Edited by: Ira Wayne Lewis, Sergio Macías and Sam B. Nadler, Jr.</subtitle>
+<editorial date="2007" series="Aportaciones Matemáticas, Serie Investigacion num 19" isbn-10="970-32-5046-7" vol="xxx" year="2007" begin-page="xxx" end-page="xxx">Sociedad Matemática Mexicana</editorial>
+
+
+<image src="bellamy2.png" link="." />
+<description
+text1=""
+/>
+
+<link type="Zentralblatt" code="Zbl 1194.54003">https://zbmath.org/?q=an:1194.54003</link>
+
+
+</book>
+
+
+
+<book>
+<title>Hyperspaces of Sets: A Text with Research Questions</title>
+<subtitle>Responsible of the SMM Edition</subtitle>
+<editorial date="2006" series="Aportaciones Matemáticas" isbn-10="970-32-3873-4" vol="xxx" year="2006" begin-page="xxx" end-page="xxx">Sociedad Matemática Mexicana</editorial>
+
+
+<image src="hiperespacios-sam.png" link="." />
+<description
+text1="From the foreword: 'This is the Aportaciones Matemáticas edition (first published in 2006) of the book originally published in 1978 by Marcel Dekker, Inc., New York. This edition is an unabridged version of the original book with slight modifications for typesetting purposes.'"
+/>
+
+<link type="MathSciNet" code="MR2293338" >https://mathscinet.ams.org/mathscinet-getitem?mr=2293338</link>
+<link type="Zentralblatt" code="Zbl 1125.54001">https://zbmath.org/?q=an:1125.54001</link>
+</book>
+
+
+<book>
+<title>Invitacion a la Teoria de los Continuos y sus Hiperespacios</title>
+<subtitle>Edited by: Raúl Escobedo, Sergio Macías and Héctor Méndez.</subtitle>
+<editorial date="2006" series="Aportaciones Matemáticas, Serie Textos num 31" isbn-10="970-32-3872-6" vol="xxx" year="2006" begin-page="xxx" end-page="xxx">Sociedad Matemática Mexicana</editorial>
+
+
+<image src="invitacion.png" link="." />
+<description
+text1=""
+/>
+<link type="MathSciNet" code="MR2320220" >https://mathscinet.ams.org/mathscinet-getitem?mr=2320220</link>
+<link type="Zentralblatt" code="Zbl 1121.54053">https://zbmath.org/?q=an:1121.54053</link>
+
+</book>
+
+
+<book>
+<title>Topics on Continua</title>
+<subtitle>(From the backcover)</subtitle>
+
+<editorial date="May 27, 2005" series="Pure and Applied Mathematics Series" soft-isbn="9780367454128" e-isbn="9780429133367" isbn-10="0-8493-3738-0" hard-isbn="9780849337383" vol="275" year="2005" begin-page="xxx" end-page="xxx">Chapman &amp;amp; Hall/CRC, Taylor &amp;amp; Francis Group Boca Raton, London, New York, Singapore, 2005</editorial>
+<image src="libro2.gif" link="http://www.crcpress.com/product/isbn/9780849337383" />
+<description
+text1="Specialized as it might be, continuum theory is one of the most intriguing areas in mathematics. However, despite being popular journal fare, few books have thoroughly explored this interesting aspect of topology."
+text2="In Topics on Continua, Sergio Macías, one of the field's leading scholars, presents four of his favorite continuum topics: inverse limits, Jones's set function $\mathcal{T}$, homogenous continua, and $n$-fold hyperspaces, and in doing so, presents the most complete set of theorems and proofs ever contained in a single topology volume. Many of the results presented have previously appeared only in research papers, and some appear here for the first time."
+text3="After building the requisite background and exploring the inverse limits of continua, the discussions focus on Professor Jones's set function $\mathcal{T}$ and continua for which $\mathcal{T}$ is continuous. An introduction to topological groups and group actions lead to a proof of Effros's Theorem, followed by a presentation of two decomposition theorems. The author then offers an in-depth study of $n$-fold hyperspaces. This includes their general properties, conditions that allow points of $n$-fold symmetric products to be arcwise accessible from their complement, points that arcwise disconnect the $n$-fold hyperspaces, the $n$-fold hyperspaces of graphs, and theorems relating $n$-fold hyperspaces and cones. The concluding chapter presents a series of open questions on each topic discussed in the book."
+text4="With more than a decade of teaching experience, Macías is able to put forth exceptionally cogent discussions that not only give beginning mathematicians a strong grounding in continuum theory, but also form an authoritative, single-source guide through some of topology's most captivating facets." />
+<link type="MathSciNet" code="MR2147759" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=2147759</link>
+<link type="Zentralblatt" code="Zbl 1081.54002">https://zbmath.org/?q=an:1081.54002</link>
+<link type="Google Books" code="Google Books">http://books.google.com.mx/books/about/Topics_on_Continua.html?id=H1_ZHtOjLDEC</link>
+<link type="Erratas" code="Errata"  data="errata">pdf/ErrataTopicsonContinua.pdf</link>
+<link type="Newsletter"  code="Newsletter of European Mathematical Society, September 2006, page 54">pdf/2006-09-61.pdf</link>
+<link type="Library" code="Kyushu University Library">http://hdl.handle.net/2324/1001240774</link>
+</book>
+
+
+
+<book>
+<title>Historia y Desarrollo de la Teoría de los Continuos Indescomponibles</title>
+<subtitle>Traducción al español del título original "A History and Development of Indecomposable Continua Theory"</subtitle>
+
+<author>Francis Leon Jones, Ph. D. Dissertation, Michigan State University (1971). University Microfims # 72-8710.  </author>
+<editorial date="May 27, 2005" series="Aportaciones Matemáticas" isbn-10="970-32-2130-0" isbn-13="" vol="Textos #27" year="2004" begin-page="xxx" end-page="xxx">Sociedad Matemática Mexicana</editorial>
+
+<description
+text1="In this work, the history and development  of indecomposable continua is presented from its origins in 1910 through 1971. It traces the rise of indecomposable continua from the status of pathological examples to that of a general body of knowledge playing a fairly important role in point-set topology."
+text2="The theory of ordinary indecomposable continua is explored in great detail. In addition, most of the results arising from the study of various special cases of indecomposability are surveyed. However, no results concerning generalized indecomposable continua are included."
+text3="The background material from general topology is included. The specialized definition are introduced as needed. Some early examples of indecomposable continua in essentially the same terminology as the inventor used are presented. In addition, some of the first theorems on indecomposable continua are proved using the original ideas."
+text4="The pseudo-arc and  the pseudo-circle are discussed with some theorems about ordinary hereditarily indecomposable continua. At the end of the book, as an appendix, there is a paper by Prof. Judy Kennedy in which a more resent overview of indecomposable continua is presented, including its relationships with dynamical systems."
+/>
+
+<image src="traduccion.gif" link="" />
+<link type="MathSciNet" code="MR2112250" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=2112250</link>
+<link type="Zentralblatt" code="Zbl 1066.54001">https://zbmath.org/?q=an:1066.54001</link>
+
+</book>
+
+
+<book>
+<title>Continuum Theory: Proceedings of the Special Session in Honor of Professor Sam B. Nadler, Jr.'s 60th Birthday</title>
+<subtitle>Edited by: Alejandro Illanes, Ira Wayne Lewis and Sergio Macías.</subtitle>
+<editorial date="2006" series="Lecture Notes in Pure and Applied Mathematics Series," e-isbn="9780429222382" isbn-13="978-0824708757" isbn-10="082470875X" vol="230" year="2002" begin-page="xxx" end-page="xxx">Marcel Dekker, Inc., New York, Basel, 2002</editorial>
+
+
+<image src="continuum-theory.png" link="https://www.taylorfrancis.com/books/continuum-theory-alejandro-illanes-sergio-macias-ira-lewis/e/10.1201/9780203910245" />
+<description
+text1=""
+/>
+<link type="MathSciNet" code="MR2001430" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=2001430</link>
+
+<link type="Zentralblatt" code="Zbl 1005.00053">https://zbmath.org/?q=an:1005.00053</link>
+<link type="DOI" code="10.1201/9780203910245">http://dx.doi.org/10.1201/9780203910245</link>
+
+
+
+</book>
+
+<book>
+<title>La estructura de los dendroides suaves</title>
+<subtitle>Edited by:  Sociedad Matemática Mexicana</subtitle>
+<editorial date="1993" series="Aportaciones Matemáticas, Serie Comunicaciones num 10" isbn-10="xxx" vol="xxx" year="1993" begin-page="xxx" end-page="xxx">Sociedad Matemática Mexicana</editorial>
+
+
+<image src="dendroides.png" link="." />
+<description
+text1=""
+/>
+<link type="MathSciNet" code="MR1302922" >https://mathscinet.ams.org/mathscinet-getitem?mr=1302922</link>
+<link type="Zentralblatt" code="Zbl 0859.54023">http://zbmath.org/?q=an:0859.54023</link>
+
+</book>
+
+</books>
+
+
+
