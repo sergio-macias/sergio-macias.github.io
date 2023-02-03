@@ -1,0 +1,291 @@
+﻿
+digraph genealogia {
+    splines=ortho
+    graph [pad=1.0 , bgcolor=black,  style = "bold", fontcolor="#336699", fontsize = 14 , size = "10,20"];
+    edge [color=yellow];
+    size="20,20";
+    node [
+        shape=box,
+        fillcolor="#f0f0f0",
+        color=red,
+        style="filled",
+        penwidth=2.0,
+        fontname="Verdana",
+        size="20,20"];
+
+node0 [label =<
+    <B>Dr. phil. hab. Erhard Weigel</B><BR/><BR/>
+    Universität Leipzig, 1650 (Germany)<BR/>
+    <FONT COLOR="#336699"><I>De ascensionibus et descensionibus astronimicis dissertatio</I></FONT>
+    >
+    tooltip="Erhard Weigel"
+    target="_blank"
+    URL="https://en.wikipedia.org/wiki/Erhard_Weigel"];
+
+node1 [label =<
+    <B>Dr. phil. hab. Gottfried Wilhelm Leibniz</B><BR/><BR/>
+    Universität Leipzig, 1666 (Germany)<BR/>
+    <FONT COLOR="#336699"><I>Disputatioi arithmetica de complexionibus</I></FONT>
+    >
+    tooltip="Gottfried Wilhelm Leibniz" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"];
+
+node2 [label =<
+    <B>Nicolas Malebranche</B><BR/><BR/>
+    1972
+    >
+    tooltip="Nicolas Malebranche" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Nicolas_Malebranche"];
+
+node3 [label =<
+    <B>Dr. phil. hab. Jacob Bernoulli</B><BR/><BR/>
+    Universität Basel, 1684 (Switzerland)<BR/>
+    <FONT COLOR="#336699"><I>Solutionem tergemini problematis arithmetici geometrici et astronomici</I></FONT>
+    >
+    tooltip="Jacob Bernoulli" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Jacob_Bernoulli"];
+
+
+
+node3a [label =<
+    <B>Medicinae Dr. Johann Bernoulli</B><BR/><BR/>
+    Universität Basel, 1690, 1694 (Switzerland)<BR/>
+    <FONT COLOR="#336699"><I>Dissertatio de effervescentia et fermentatione<BR/>
+    Dissertatio Inauguralis Physico-Anatomica de Motu Musculorum</I></FONT>
+    >
+    tooltip="Jacob Bernoulli" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Johann_Bernoulli"];
+
+
+node4 [label =<
+    <B>Ph.D. Leonhard Euler</B><BR/><BR/>
+    Universität Basel, 1726 (Switzerland)<BR/>
+    <FONT COLOR="#336699"><I>Dissertatio physica de sono</I></FONT>
+    >
+    tooltip="Leonhard Euler" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Leonhard_Euler"];
+
+node5 [label =<
+    <B>Joseph-Louis Lagrange</B><BR/><BR/>
+    no degree>
+    tooltip="Joseph Louis Lagrange" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange"];
+
+
+node6 [label =<
+    <B>Ph.D. Sim&#233;on Denis Poisson</B><BR/><BR/>
+    École Polytechnique, 1800 (France)
+    >
+    tooltip="Sim&#233;on Denis Poisson" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson"];
+
+node7 [label =<
+    <B>Ph.D. Michel Chasles</B><BR/><BR/>
+    École Polytechnique, 1814 (France)
+    >
+    tooltip="Michel Chasles" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Michel_Chasles"];
+
+node8 [label =<
+    <B>B.A. Hubert Anson Newton</B><BR/><BR/>
+    Yale University, 1850 (United States)
+    >
+    tooltip="H. A. Newton" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Hubert_Anson_Newton"];
+
+node9 [label =<
+    <B>Ph.D. Eliakim Hastings Moore</B><BR/><BR/>
+    Yale University, 1885 (United States)<BR/>
+    <FONT COLOR="#336699"><I>Extensions of Certain Theorems of Clifford and Cayley in the Geometry of n Dimensions</I></FONT>
+    >
+    tooltip="E. H. Moore" target="_blank"
+    URL="https://en.wikipedia.org/wiki/E._H._Moore"];
+
+
+node10 [label =<
+    <B>Ph.D. Robert Lee Moore</B><BR/><BR/>
+    The University of Chicago, 1905 (United States)<BR/>
+    <FONT COLOR="#336699"><I>Sets of Metrical Hypotheses for Geometry</I></FONT>
+    >
+    tooltip="Robert Lee Moore" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Robert_Lee_Moore"];
+
+node11 [label =<
+    <B>Ph.D. Floyd Burton Jones</B><BR/><BR/>
+    The University of Texas at Austin, 1935 (United States)<BR/>
+    <FONT COLOR="#336699"><I>Concerning R.L. Moore's Axiom 5 (sub) 1</I></FONT>
+    >
+    tooltip="Floyd Burton Jones" target="_blank"
+    URL="http://topology.nipissingu.ca/tp/reprints/v24/tp24101.pdf"];
+
+node12 [label =<
+    <B>Ph.D. James Ted Rogers Jr.</B><BR/><BR/>
+    The University of California, Riverside, 1967 (United States)<BR/>
+    <FONT COLOR="#336699"><I>Pseudo-Circles and Universal Circularly Chainable Continua</I></FONT>
+    >
+    tooltip="Jim Rogers" target="_blank"
+    URL="http://topology.nipissingu.ca/tp/reprints/v32/tp32000.pdf"];
+
+node_b1 [label =<
+    <B>Jean Le Rond d'Alembert</B><BR/><BR/>
+    (1717-1783)
+    >
+    tooltip="Jean Le Rond d'Alembert" target="_blank"
+    URL="https://es.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert"];
+
+node_b2 [label =<
+    <B>Pierre Simon Laplace</B><BR/><BR/>
+    (1749-1827)
+    >
+    tooltip="Pierre Simon Laplace" target="_blank"
+    URL="https://es.wikipedia.org/wiki/Pierre-Simon_Laplace"];
+
+node_c1 [label =<
+    <B>Ph.D. Oswald Veblen</B><BR/><BR/>
+    The University of Chicago, 1903 (United States)<BR/>
+    <FONT COLOR="#336699"><I>A System of Axioms for Geometry</I></FONT>
+    >
+    tooltip="Oswald Veblen" target="_blank"
+    URL="https://en.wikipedia.org/wiki/Oswald_Veblen"];
+
+guapo [fillcolor="yellow",  label =<
+    <B>Ph.D. Sergio Macías</B><BR/><BR/>
+    Tulane University, 1992 (United States)<BR/>
+    <FONT COLOR="#336699"><I>Covering Spaces of Homogeneous Continua</I></FONT>
+    >
+    tooltip="Sergio Macías"
+    target="_blank"
+    URL="https://www.matem.unam.mx/fsd/sergiom"];
+
+
+hijo1 [label =<
+    <B>Dr. Antonio Peláez Morales</B><BR/><BR/>
+    Universidad Nacional Autónoma de M&#233;xico, 2006 (M&#233;xico)<BR/>
+    <FONT COLOR="#336699"><I>Inverse Limits and a Generalization</I></FONT>
+    >
+    tooltip="Antonio Peláez Morales" target="_blank"
+    URL="https://tesiunam.dgb.unam.mx/F/HR9ARQKISNDGE47P9D7TX7XIUUR8F51GBG7QKCGYTM97KVTFUJ-24861?func=full-set-set&#38;set_number=217220&#38;set_entry=000010&#38;format=999"];
+
+hijo2 [label =<
+    <B>Dr. Juan Carlos Macías Romero</B><BR/><BR/>
+    Benem&#233;rita Universidad Autónoma de Puebla, 2008 (M&#233;xico)<BR/>
+    <FONT COLOR="#336699"><I>On the n-Fold Pseudo-Hyperspace Suspension of Continua</I></FONT>
+    >
+    tooltip="Juan Carlos Macías Romero" target="_blank"
+    URL="https://xxx"];
+
+hijo3 [label =<
+    <B>Dr. Javier Enrique Camargo García</B><BR/><BR/>
+    Universidad Nacional Autónoma de M&#233;xico, 2009 (M&#233;xico)<BR/>
+    <FONT COLOR="#336699"><I>Induced Maps between Hyperspaces of Continua</I></FONT>
+    >
+    tooltip="Javier Enrique Camargo García" target="_blank"
+    URL="https://tesiunam.dgb.unam.mx/F/HR9ARQKISNDGE47P9D7TX7XIUUR8F51GBG7QKCGYTM97KVTFUJ-24852?func=full-set-set&#38;set_number=217220&#38;set_entry=000007&#38;format=999"];
+
+hijo4 [label =<
+    <B>Dr. Leobardo Fernández Román</B><BR/><BR/>
+    Universidad Nacional Autónoma de M&#233;xico, 2010 (M&#233;xico)<BR/>
+    <FONT COLOR="#336699"><I>Functions of the power set of a continuum into itself</I></FONT>
+    >
+    tooltip="Leobardo Fernández Román" target="_blank"
+    URL="https://tesiunam.dgb.unam.mx/F/HR9ARQKISNDGE47P9D7TX7XIUUR8F51GBG7QKCGYTM97KVTFUJ-24849?func=full-set-set&#38;set_number=217220&#38;set_entry=000006&#38;format=999"];
+
+hijo5 [label =<
+    <B>Dr. Franco Barragán Mendoza</B><BR/><BR/>
+    Benem&#233;rita Universidad Autónoma de Puebla, 2010 (M&#233;xico)<BR/>
+    <FONT COLOR="#336699"><I>n-fold Symmetric Product Suspensions</I></FONT>
+    >
+    tooltip="Franco Barragán Mendoza" target="_blank"
+    URL="https://xxx"];
+
+hijo6 [label =<
+    <B>Dr. Augusto C&#233;sar Piceno Cabrera</B><BR/><BR/>
+    Universidad Nacional Autónoma de M&#233;xico, 2015 (M&#233;xico)<BR/>
+    <FONT COLOR="#336699"><I>Strong Size Maps</I></FONT>
+    >
+    tooltip="Augusto C&#233;sar Piceno Cabrera" target="_blank"
+    URL="https://tesiunam.dgb.unam.mx/F/HR9ARQKISNDGE47P9D7TX7XIUUR8F51GBG7QKCGYTM97KVTFUJ-24843?func=full-set-set&#38;set_number=217220&#38;set_entry=000004&#38;format=999"];
+
+hijo7 [label =<
+    <B>Dr. Ulises Morales Fuentes</B><BR/><BR/>
+    Universidad Nacional Autónoma de M&#233;xico, 2019 (M&#233;xico)<BR/>
+    <FONT COLOR="#336699"><I>The n-fold pseudo-hyperspace suspension of finite graphs and dendrites</I></FONT>
+    >
+    tooltip="Ulises Morales Fuentes" target="_blank"
+    URL="https://tesiunam.dgb.unam.mx/F/HR9ARQKISNDGE47P9D7TX7XIUUR8F51GBG7QKCGYTM97KVTFUJ-24834?func=full-set-set&#38;set_number=217220&#38;set_entry=000001&#38;format=999"];
+
+hijo8 [label =<
+    <B>Dra. Anahí Rojas Carrasco</B><BR/><BR/>
+    Universidad de la Mixteca, 2006 (M&#233;xico)<BR/>
+    <FONT COLOR="#336699"><I>Transitividad Topológica en Productos, Productos Sim&#233;tricos y Productos Sim&#233;tricos Suspensión</I></FONT>
+    >
+    tooltip="Anahí Rojas Carrasco"
+    target="_blank"
+    URL="https://xxx"];
+
+
+a1 [shape=circle,label="",height=0.01,width=0.01];
+a2 [shape=circle,label="",height=0.01,width=0.01];
+
+
+b1 [shape=circle,label="",height=0.01,width=0.01];
+b2 [shape=circle,label="",height=0.01,width=0.01];
+b3 [shape=circle,label="",height=0.01,width=0.01];
+b4 [shape=circle,label="",height=0.01,width=0.01];
+b5 [shape=circle,label="",height=0.01,width=0.01];
+b6 [shape=circle,label="",height=0.01,width=0.01];
+b7 [shape=circle,label="",height=0.01,width=0.01];
+b8 [shape=circle,label="",height=0.01,width=0.01];
+b9 [shape=circle,label="",height=0.01,width=0.01];
+
+b10 [shape=circle,label="",height=0.01,width=0.01];
+b11 [shape=circle,label="",height=0.01,width=0.01];
+b12 [shape=circle,label="",height=0.01,width=0.01];
+b13 [shape=circle,label="",height=0.01,width=0.01];
+b14 [shape=circle,label="",height=0.01,width=0.01];
+
+
+{rank=same; hijo1; hijo2; hijo3; hijo4};
+{rank=same; hijo5; hijo6; hijo7; hijo8};
+{rank=same; b11 -> b1 -> b2 -> b3 -> b4 -> b5 -> b12   [arrowhead = none, style=bold,color=yellow]; };
+{rank=same; b13 -> b6 -> b7 -> b8 -> b9 -> b10 -> b14 [arrowhead = none, style=bold,color=yellow]; };
+
+
+node9   -> node_c1 [arrowhead = none, style=bold,color=yellow];
+node_c1 -> node10  [arrowhead = none, style=bold,color=yellow];
+node_b1 -> node_b2 [arrowhead = none, style=bold,color=yellow];
+node_b2 -> node6   [arrowhead = none, style=bold,color=yellow];
+node0 -> node1 [arrowhead = none, style=bold,color=yellow];
+node1 -> node2 [arrowhead = none, style=bold,color=yellow];
+node2 -> node3 [arrowhead = none, style=bold,color=yellow];
+node3  -> node3a [arrowhead = none, style=bold,color=yellow];
+node3a  -> node4 [arrowhead = none, style=bold,color=yellow];
+node4  -> node5 [arrowhead = none, style=bold,color=yellow];
+node5  -> node6 [arrowhead = none, style=bold,color=yellow];
+node6  -> node7 [arrowhead = none, style=bold,color=yellow];
+node7  -> node8 [arrowhead = none, style=bold,color=yellow];
+node8  -> node9 [arrowhead = none, style=bold,color=yellow];
+node9  -> node10 [arrowhead = none, style=bold,color=yellow];
+node10 -> node11 [arrowhead = none, style=bold,color=yellow];
+node11 -> node12 [arrowhead = none, style=bold,color=yellow];
+node12 -> guapo [arrowhead = none, style=bold,color=yellow];
+
+
+guapo -> a1 [arrowhead = none, style=bold,color=yellow];
+a1 -> b3 [arrowhead = none, style=bold,color=yellow];
+b3 -> a2 [arrowhead = none, style=bold,color=yellow];
+a2 -> b8 [arrowhead = none, style=bold,color=yellow];
+
+b11->hijo1 [arrowhead = none, style=bold,color=yellow];
+b2->hijo2 [arrowhead = none, style=bold,color=yellow];
+b4->hijo3 [arrowhead = none, style=bold,color=yellow];
+b12->hijo4 [arrowhead = none, style=bold,color=yellow];
+
+b13->hijo5 [arrowhead = none, style=bold,color=yellow];
+b7->hijo6 [arrowhead = none, style=bold,color=yellow];
+b9->hijo7 [arrowhead = none, style=bold,color=yellow];
+b14->hijo8 [arrowhead = none, style=bold,color=yellow];
+
+
+
+}
