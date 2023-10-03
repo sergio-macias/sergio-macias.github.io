@@ -872,6 +872,7 @@
 <link type="MathSciNet" code="MR4086434">https://mathscinet.ams.org/mathscinet-getitem?mr=4086434</link>
 <link type="Zentralblatt" code="Zbl 07257398">https://zbmath.org/?q=an:07257398</link>
 <link type="DOI"  code="10.3906/mat-1912-67" >https://dx.doi.org/10.3906/mat-1912-67</link>
+
 <file type="pdf" free="yes">https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1338&amp;context=math</file>
 <word one="topological transitivity" two="symmetric products" three="products" />
 </paper>
@@ -959,7 +960,6 @@
 <link type="MathSciNet" code="MR4255903" >https://mathscinet.ams.org/mathscinet-getitem?mr=4255903</link>
 <link type="Zentralblatt" code="Zbl 1476.54036">https://zbmath.org/?q=an:1476.54036</link>
 <file type="pdf"  free="no">http://topology.nipissingu.ca/tp/reprints/v59/tp59012p1.pdf</file>
-
 <word one="xxx" two="xxx" three="xxx" />
 </paper>
 
@@ -1034,20 +1034,23 @@
 </paper>
 
 
-<!--
+
 
 <paper num="79">
 <title>The Uniform Property of Effros and Local Homogeneity</title>
 <titlt>The Uniform Property of Effros and Local Homogeneity</titlt>
 <coauthors>
 </coauthors>
-<magazine issn="1337-2211" vol="xx" year="2023" begin-page="1" end-page="10">Mathematica Slovaka</magazine>
+<magazine issn="1337-2211" vol="73-4" year="2023" begin-page="1013" end-page="1022">Mathematica Slovaka</magazine>
 <link type="MathSciNet" code="xxx" >https://mathscinet.ams.org/mathscinet-getitem?mr=xxx</link>
 <link type="Zentralblatt" code="Zbl xxx">zzz</link>
+<link type="DOI"  code="10.1515/ms-2023-0075" >https://doi.org/10.1515/ms-2023-0075</link>
+
 <word one="xxx" two="xxx" three="xxx" />
 </paper>
 
--->
+
+
 </research>
 </papers>
 
