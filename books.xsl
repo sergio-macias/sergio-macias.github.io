@@ -17,6 +17,8 @@
            src="js/mathjax/MathJax.js?config=TeX-MML-AM_CHTML">
          </script>
 
+         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+         <script async="async" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
       </head>
       <body>
         <div class="fondo">
@@ -125,6 +127,20 @@
               <p>
                 <xsl:value-of select="description/@text4" />
               </p>
+
+
+              <xsl:if test="count(altmetric) &gt; 0">
+              <p>
+                <div class='altmetric-embed' data-badge-popover='bottom' data-link-target="_blank" data-doi='{link[@type="DOI"]/@code}'></div>
+              </p>
+              </xsl:if>
+
+
+              <xsl:if test="count(dimensions) &gt; 0">
+              <p>
+                <span class="__dimensions_badge_embed__" data-hide-zero-citations="true" data-doi='{link[@type="DOI"]/@code}' data-style="small_rectangle"></span>
+              </p>
+              </xsl:if>
             </td>
           </tr>
         </table>

@@ -16,6 +16,7 @@
            src="js/mathjax/MathJax.js?config=TeX-MML-AM_CHTML">
          </script>
 
+         <script async="async" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
       </head>
       <body>
         <div class="fondo">
@@ -99,12 +100,23 @@
    <xsl:template match="link">
     <a class="{@type}" href="{.}" target="_blank">
 
-    <xsl:if test="@type ='DOI'">DOI: </xsl:if>
+    <xsl:if test="@type ='MathSciNet'">
     <xsl:value-of select="@code" />
+    </xsl:if>
+    <xsl:if test="@type ='Zentralblatt'">
+    <xsl:value-of select="@code" />
+    </xsl:if>
+    <xsl:if test="@type ='DOI'">DOI:
+    <xsl:value-of select="@code" />
+    </xsl:if>
     <xsl:if test="@ref !='xxx'">
     -<xsl:value-of select="@ref" />
     </xsl:if>
     </a>
+    <xsl:if test="@type ='DOI'">
+    <xsl:value-of select="@code" />
+    <span class="__dimensions_badge_embed__" data-hide-zero-citations="true" data-doi='{@code}' data-style="small_rectangle"></span>
+    </xsl:if>
   </xsl:template>
 
   <xsl:template match="file">

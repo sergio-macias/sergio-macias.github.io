@@ -1015,7 +1015,7 @@
 </coauthors>
 <magazine issn="1989-4147" vol="24" year="2023" begin-page="59" end-page="81">Applied General Topology</magazine>
 <link type="MathSciNet" code="MR4573608" >https://mathscinet.ams.org/mathscinet-getitem?mr=4573608</link>
-<link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/</link>
+<link type="Zentralblatt" code="Zbl 1509.37012">https://zbmath.org/?q=an:1509.37012</link>
 <link type="DOI"  code="10.4995/agt.2023.17345" >https://doi.org/10.4995/agt.2023.17345</link>
 <file type="pdf"  free="yes">https://polipapers.upv.es/index.php/AGT/article/view/17345/15786</file>
 <word one="xxx" two="xxx" three="xxx" />
@@ -1042,9 +1042,10 @@
 <coauthors>
 </coauthors>
 <magazine issn="1337-2211" vol="73-4" year="2023" begin-page="1013" end-page="1022">Mathematica Slovaka</magazine>
-<link type="MathSciNet" code="xxx" >https://mathscinet.ams.org/mathscinet-getitem?mr=xxx</link>
-<link type="Zentralblatt" code="Zbl xxx">zzz</link>
+<link type="MathSciNet" code="MR4623271" >https://mathscinet.ams.org/mathscinet-getitem?mr=4623271</link>
+<link type="Zentralblatt" code="Zbl 07729727">https://zbmath.org/?q=an:07729727</link>
 <link type="DOI"  code="10.1515/ms-2023-0075" >https://doi.org/10.1515/ms-2023-0075</link>
+<file type="pdf" free="yes">https://www.degruyter.com/document/doi/10.1515/ms-2023-0075/pdf</file>
 
 <word one="xxx" two="xxx" three="xxx" />
 </paper>
