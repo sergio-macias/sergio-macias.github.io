@@ -1092,7 +1092,21 @@
 <word one="xxx" two="xxx" three="xxx" />
 </paper>
 
+<paper num="83">
+<title>On weakly continuum-chainable and almost continuum-chainable continua</title>
+<titlt>On weakly continuum-chainable and almost continuum-chainable continua</titlt>
+<coauthors>
+<coauthor name="Javier Camargo" />
+<coauthor name="Rosario A. López" />
+</coauthors>
+<magazine issn="0166-8641" vol="345" year="2024" begin-page="108833" end-page="108833">Topology and Its Applications</magazine>
+<link type="MathSciNet" code="xxx" >https://mathscinet.ams.org/mathscinet-getitem?mr=xxx</link>
+<link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/?q=an:xxx</link>
+<link type="DOI"  code="10.1016/j.topol.2024.108833" >https://doi.org/10.1016/j.topol.2024.108833</link>
+<file type="pdf" free="no">https://www.sciencedirect.com/science/article/abs/pii/S016686412400018X</file>
 
+<word one="xxx" two="xxx" three="xxx" />
+</paper>
 
 
 </research>
