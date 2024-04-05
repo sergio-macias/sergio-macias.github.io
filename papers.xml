@@ -1050,20 +1050,50 @@
 <word one="xxx" two="xxx" three="xxx" />
 </paper>
 
-
 <paper num="80">
 <title>The set functions $\mathcal{K}$ and $\mathcal{T}$ and the property of Kelley</title>
 <titlt>The set functions K and T and the property of Kelley</titlt>
 <coauthors>
 </coauthors>
 <magazine issn="0166-8641" vol="341" year="2024" begin-page="108747" end-page="108747">Topology and Its Applications</magazine>
-<link type="MathSciNet" code="xxx" >https://mathscinet.ams.org/mathscinet-getitem?mr=xxx</link>
+<link type="MathSciNet" code="MR4655734" >https://mathscinet.ams.org/mathscinet-getitem?mr=4655734</link>
 <link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/?q=an:xxx</link>
 <link type="DOI"  code="10.1016/j.topol.2023.108747" >https://doi.org/10.1016/j.topol.2023.108747</link>
 <file type="pdf" free="no">https://www.sciencedirect.com/science/article/abs/pii/S0166864123003401</file>
-
 <word one="xxx" two="xxx" three="xxx" />
 </paper>
+
+<paper num="81">
+<title>Continua whose hyperspace of subcontinua is infinite dimensional and a cone</title>
+<titlt>Continua whose hyperspace of subcontinua is infinite dimensional and a cone</titlt>
+<coauthors>
+<coauthor name="Sam B. Nadler, Jr." />
+</coauthors>
+<magazine issn="0213-8743" vol="38-2" year="2023" begin-page="205" end-page="219">EXTRACTA MATHEMATICAE</magazine>
+<link type="MathSciNet" code="xxx" >https://mathscinet.ams.org/mathscinet-getitem?mr=xxx</link>
+<link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/?q=an:xxx</link>
+<link type="DOI"  code="10.17398/2605-5686.38.2.205" >https://doi.org/10.17398/2605-5686.38.2.205</link>
+<file type="pdf" free="yes">https://publicaciones.unex.es/index.php/EM/article/view/2605-5686.38.2.205</file>
+<word one="xxx" two="xxx" three="xxx" />
+</paper>
+
+<paper num="82">
+<title>Dynamic properties for the induced maps on symmetric product suspensions of a topological space</title>
+<titlt>Dynamic properties for the induced maps on symmetric product suspensions of a topological space</titlt>
+<coauthors>
+<coauthor name="Franco Barragán" />
+<coauthor name="Anahí Rojas" />
+</coauthors>
+<magazine issn="0166-8641" vol="342" year="2024" begin-page="108793" end-page="108793">Topology and Its Applications</magazine>
+<link type="MathSciNet" code="MR4676685" >https://mathscinet.ams.org/mathscinet-getitem?mr=4676685</link>
+<link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/?q=an:xxx</link>
+<link type="DOI"  code="10.1016/j.topol.2023.108793" >https://doi.org/10.1016/j.topol.2023.108793</link>
+<file type="pdf" free="no">https://www.sciencedirect.com/science/article/pii/S0166864123003863</file>
+<word one="xxx" two="xxx" three="xxx" />
+</paper>
+
+
+
 
 </research>
 </papers>
