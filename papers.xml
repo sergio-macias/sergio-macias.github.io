@@ -490,7 +490,7 @@
 <titlt>On the idempotency of the set function T</titlt>
 <coauthors />
 <magazine issn="0362-1588" vol="37-4" year="2011" begin-page="1297" end-page="1305" >Houston Journal of Mathematics</magazine>
-<link type="MathSciNet" code="MR2875272" ref="xxx">https://mathscinet.ams.org/mathscinet-getitem?mr=2875272</link>
+<link type="MathSciNet" code="MR2875272" >https://mathscinet.ams.org/mathscinet-getitem?mr=2875272</link>
 <link type="Zentralblatt" code="Zbl 1236.54016">http://zbmath.org/1236.54016</link>
 <file type="pdf"  free="no">http://math.uh.edu/~hjm/restricted/pdf37%284%29/17macias.pdf</file>
 <word one="set function T" two="idempotency" three="hyperspace" />
@@ -538,7 +538,7 @@
 <titlt>Deformation retracts and Hilbert cubes in n-fold hyperspaces</titlt>
 <coauthors />
 <magazine issn="0146-4124" vol="40" year="2012" begin-page="215" end-page="226">Topology Proceedings</magazine>
-<link type="MathSciNet" code="MR2846736" ref="xxx">https://mathscinet.ams.org/mathscinet-getitem?mr=2846736</link>
+<link type="MathSciNet" code="MR2846736" >https://mathscinet.ams.org/mathscinet-getitem?mr=2846736</link>
 <link type="Zentralblatt" code="Zbl 1277.54017">http://zbmath.org/1277.54017</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v40/tp40019.pdf</file>
 <word one="deformation retracts" two="Hilbert cube" three="n-fold hyperspace" />
@@ -649,7 +649,7 @@
 <coauthor name="César Piceno" />
 </coauthors>
 <magazine issn="0017-095X" vol="50(70)-2" year="2015" begin-page="467" end-page="488" to-appear="yes">Glasnik Matemati&#269;ki</magazine>
-<link type="MathSciNet" code="MR3437502 " ref="xxx">https://mathscinet.ams.org/mathscinet-getitem?mr=3437502</link>
+<link type="MathSciNet" code="MR3437502 ">https://mathscinet.ams.org/mathscinet-getitem?mr=3437502</link>
 <link type="Zentralblatt" code="Zbl 1338.54073">https://zbmath.org/1338.54073</link>
 <file type="pdf"  free="no">https://web.math.pmf.unizg.hr/glasnik/50.2/50%282%29-14.pdf</file>
 <word one="continuum" two="n-fold hyperspace" three="strong size map" />
@@ -960,7 +960,7 @@
 <link type="MathSciNet" code="MR4255903" >https://mathscinet.ams.org/mathscinet-getitem?mr=4255903</link>
 <link type="Zentralblatt" code="Zbl 1476.54036">https://zbmath.org/1476.54036</link>
 <file type="pdf"  free="no">http://topology.nipissingu.ca/tp/reprints/v59/tp59012p1.pdf</file>
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 <paper num="74">
@@ -974,7 +974,7 @@
 <link type="Zentralblatt" code="Zbl 7471572">https://zbmath.org/7471572</link>
 
 <link type="DOI"  code="10.1016/j.topol.2021.107996" >https://doi.org/10.1016/j.topol.2021.107996</link>
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 
@@ -989,7 +989,7 @@
 <link type="Zentralblatt" code="Zbl 7468313">https://zbmath.org/7468313</link>
 <link type="DOI"  code="10.1007/s12346-021-00556-9" >https://doi.org/10.1007/s12346-021-00556-9</link>
 <link type="ResearchGate" code=" ResearchGate">https://www.researchgate.net/publication/358220004_Dynamics_with_Set-Valued_Functions_and_Coselections</link>
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 
@@ -1005,7 +1005,7 @@
 <link type="MathSciNet" code="MR4387435" >https://mathscinet.ams.org/mathscinet-getitem?mr=4387435</link>
 <link type="Zentralblatt" code="Zbl 07568609">https://zbmath.org/07568609</link>
 <file type="pdf"  free="no">http://topology.nipissingu.ca/tp/reprints/v61/tp61006p1.pdf</file>
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 <paper num="77">
@@ -1018,7 +1018,7 @@
 <link type="Zentralblatt" code="Zbl 1509.37012">https://zbmath.org/1509.37012</link>
 <link type="DOI"  code="10.4995/agt.2023.17345" >https://doi.org/10.4995/agt.2023.17345</link>
 <file type="pdf"  free="yes">https://polipapers.upv.es/index.php/AGT/article/view/17345/15786</file>
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 <paper num="78">
@@ -1030,7 +1030,7 @@
 <link type="MathSciNet" code="MR4583188" >https://mathscinet.ams.org/mathscinet-getitem?mr=4583188</link>
 <link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/</link>
 <file type="pdf"  free="no">http://topology.nipissingu.ca/tp/reprints/v63/tp63004p1.pdf</file>
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 
@@ -1047,7 +1047,7 @@
 <link type="DOI"  code="10.1515/ms-2023-0075" >https://doi.org/10.1515/ms-2023-0075</link>
 <file type="pdf" free="yes">https://www.degruyter.com/document/doi/10.1515/ms-2023-0075/pdf</file>
 
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 <paper num="80">
@@ -1060,7 +1060,7 @@
 <link type="Zentralblatt" code="Zbl 7792379">https://zbmath.org/7792379</link>
 <link type="DOI"  code="10.1016/j.topol.2023.108747" >https://doi.org/10.1016/j.topol.2023.108747</link>
 <file type="pdf" free="no">https://www.sciencedirect.com/science/article/abs/pii/S0166864123003401</file>
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 <paper num="81">
@@ -1074,7 +1074,7 @@
 <link type="Zentralblatt" code="Zbl 7790528">https://zbmath.org/7790528</link>
 <link type="DOI"  code="10.17398/2605-5686.38.2.205" >https://doi.org/10.17398/2605-5686.38.2.205</link>
 <file type="pdf" free="yes">https://publicaciones.unex.es/index.php/EM/article/view/2605-5686.38.2.205</file>
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 <paper num="82">
@@ -1089,7 +1089,7 @@
 <link type="Zentralblatt" code="Zbl 7783270">https://zbmath.org/7783270</link>
 <link type="DOI"  code="10.1016/j.topol.2023.108793" >https://doi.org/10.1016/j.topol.2023.108793</link>
 <file type="pdf" free="no">https://www.sciencedirect.com/science/article/pii/S0166864123003863</file>
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 <paper num="83">
@@ -1105,7 +1105,7 @@
 <link type="DOI"  code="10.1016/j.topol.2024.108833" >https://doi.org/10.1016/j.topol.2024.108833</link>
 <file type="pdf" free="no">https://www.sciencedirect.com/science/article/abs/pii/S016686412400018X</file>
 
-<word one="xxx" two="xxx" three="xxx" />
+<word one="yyy" two="yyy" three="yyy" />
 </paper>
 
 
@@ -1121,8 +1121,8 @@
 <link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/xxx</link>
 <link type="DOI"  code="10.1007/s40840-024-01688-2" >https://doi.org/10.1007/s40840-024-01688-2</link>
 <word one="Wilder space" two="Uniform property of Effros" three="Homogeneous continuum" />
-<file type="pdf" free="yes">https://link.springer.com/content/pdf/10.1007/s40840-024-01688-2.pdf</file>
 <openAccess>abc</openAccess>
+<file type="pdf" free="yes">https://link.springer.com/content/pdf/10.1007/s40840-024-01688-2.pdf</file>
 </paper>
 
 </research>
