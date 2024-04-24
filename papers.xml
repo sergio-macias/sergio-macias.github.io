@@ -977,7 +977,6 @@
 <word one="yyy" two="yyy" three="yyy" />
 </paper>
 
-
 <paper num="75">
 <title>Dynamics with set-valued functions and coselections</title>
 <titlt>Dynamics with set-valued functions and coselections</titlt>
@@ -1033,9 +1032,6 @@
 <word one="yyy" two="yyy" three="yyy" />
 </paper>
 
-
-
-
 <paper num="79">
 <title>The Uniform Property of Effros and Local Homogeneity</title>
 <titlt>The Uniform Property of Effros and Local Homogeneity</titlt>
@@ -1046,7 +1042,7 @@
 <link type="Zentralblatt" code="Zbl 07729727">https://zbmath.org/07729727</link>
 <link type="DOI"  code="10.1515/ms-2023-0075" >https://doi.org/10.1515/ms-2023-0075</link>
 <file type="pdf" free="yes">https://www.degruyter.com/document/doi/10.1515/ms-2023-0075/pdf</file>
-
+<openAccess>abc</openAccess>
 <word one="yyy" two="yyy" three="yyy" />
 </paper>
 
@@ -1104,11 +1100,8 @@
 <link type="Zentralblatt" code="Zbl 7815891">https://zbmath.org/7815891</link>
 <link type="DOI"  code="10.1016/j.topol.2024.108833" >https://doi.org/10.1016/j.topol.2024.108833</link>
 <file type="pdf" free="no">https://www.sciencedirect.com/science/article/abs/pii/S016686412400018X</file>
-
 <word one="yyy" two="yyy" three="yyy" />
 </paper>
-
-
 
 <paper num="84">
 <title>On Wilder, Strongly Wilder, Continuumwise Wilder, $D$, $D^*$, and $D^{**}$ Continua</title>
@@ -1121,8 +1114,8 @@
 <link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/xxx</link>
 <link type="DOI"  code="10.1007/s40840-024-01688-2" >https://doi.org/10.1007/s40840-024-01688-2</link>
 <word one="Wilder space" two="Uniform property of Effros" three="Homogeneous continuum" />
-<openAccess>abc</openAccess>
 <file type="pdf" free="yes">https://link.springer.com/content/pdf/10.1007/s40840-024-01688-2.pdf</file>
+<openAccess>abc</openAccess>
 </paper>
 
 </research>
