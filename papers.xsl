@@ -64,6 +64,13 @@
         <xsl:if test="count(link) &gt; 0">
           <p>
             <xsl:apply-templates select="link" />
+
+            <xsl:if test="count(openAccess) &gt; 0">
+              <span class="openAccess">
+                <xsl:apply-templates select="openAccess" />
+              </span>
+            </xsl:if>
+
             <xsl:if test="count(file) &gt; 0">
               <span class="files">
                 <xsl:apply-templates select="file" />
@@ -123,6 +130,10 @@
     <a class="{@free}" href="{.}" target="_blank">
       <img src="images/{@type}.gif" />
     </a>
+  </xsl:template>
+
+  <xsl:template match="openAccess">
+      <img src="images/openAccess.gif" />
   </xsl:template>
 
 
