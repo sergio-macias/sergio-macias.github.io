@@ -67,7 +67,7 @@
 
             <xsl:if test="count(openAccess) &gt; 0">
               <span class="openAccess">
-                <xsl:apply-templates select="imagen" />
+                <img src="images/openAccess.gif" />
               </span>
             </xsl:if>
 
@@ -131,10 +131,5 @@
       <img src="images/{@type}.gif" />
     </a>
   </xsl:template>
-
-  <xsl:template match="imagen">
-      <img src="images/openAccess.gif" />
-  </xsl:template>
-
 
 </xsl:stylesheet>
