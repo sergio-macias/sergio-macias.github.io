@@ -97,6 +97,12 @@ height: 24px;
 display:inline-block;
 }
 
+span.openAccess {
+float: right;
+height: 24px;
+display:inline-block;
+}
+
 a.pdf{
 background: url(images/pdf.gif) no-repeat left top;
 }
