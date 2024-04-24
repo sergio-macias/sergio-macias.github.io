@@ -5,6 +5,7 @@
       <head>
         <title>Sergio Mac&#237;as</title>
         <link rel="stylesheet" type="text/css" href="css/common.css" />
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
         <script type="text/x-mathjax-config">
          MathJax.Hub.Config({
