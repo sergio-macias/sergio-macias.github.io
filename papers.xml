@@ -1130,6 +1130,19 @@
 <file type="pdf" free="no">http://topology.nipissingu.ca/tp/reprints/v65/tp65005p1.pdf</file>
 </paper>
 
+<paper num="86">
+<title>A fixed point theorem of actions on continua irreducible about a finite set and of type $\lambda$</title>
+<titlt>A fixed point theorem of actions on continua irreducible about a finite set and of type lambda</titlt>
+<coauthors>
+<coauthor name="Javier Camargo" />
+</coauthors>
+<magazine issn="1661-7746" vol="27" year="2025" begin-page="1" end-page="7" >Journal of Fixed Point Theory and Applications</magazine>
+<link type="MathSciNet" code="yyy"></link>
+<link type="Zentralblatt" code="Zbl yyy"></link>
+<link type="DOI"  code="10.1007/s11784-024-01148-1" >https://doi.org/10.1007/s11784-024-01148-1</link>
+
+</paper>
+
 
 </research>
 </papers>
