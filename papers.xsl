@@ -122,7 +122,6 @@
     </xsl:if>
     </a>
     <xsl:if test="@type ='DOI'">
-    <xsl:value-of select="@code" />
     <span class="__dimensions_badge_embed__" data-hide-zero-citations="true" data-doi='{@code}' data-style="small_rectangle"></span>
     </xsl:if>
   </xsl:template>
