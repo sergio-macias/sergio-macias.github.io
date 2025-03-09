@@ -1027,7 +1027,7 @@
 </coauthors>
 <magazine issn="0146-4124" vol="63" year="2024" begin-page="29" end-page="38">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR4583188" >https://mathscinet.ams.org/mathscinet-getitem?mr=4583188</link>
-<link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/</link>
+<link type="Zentralblatt" code="Zbl 1547.54019">https://zbmath.org/1547.54019</link>
 <file type="pdf"  free="no">http://topology.nipissingu.ca/tp/reprints/v63/tp63004p1.pdf</file>
 <word one="yyy" two="yyy" three="yyy" />
 </paper>
@@ -1111,7 +1111,7 @@
 </coauthors>
 <magazine issn="2180-4206" vol="47" year="2024" begin-page="95" end-page="95">Bulletin of the Malaysian Mathematical Sciences Society</magazine>
 <link type="MathSciNet" code="xxx" >https://mathscinet.ams.org/mathscinet-getitem?mr=xxx</link>
-<link type="Zentralblatt" code="Zbl xxx">https://zbmath.org/xxx</link>
+<link type="Zentralblatt" code="Zbl 7842729">https://zbmath.org/7842729</link>
 <link type="DOI"  code="10.1007/s40840-024-01688-2" >https://doi.org/10.1007/s40840-024-01688-2</link>
 <word one="Wilder space" two="Uniform property of Effros" three="Homogeneous continuum" />
 <file type="pdf" free="yes">https://link.springer.com/content/pdf/10.1007/s40840-024-01688-2.pdf</file>
@@ -1139,7 +1139,7 @@
 </coauthors>
 <magazine issn="1661-7746" vol="27" year="2025" begin-page="1" end-page="7" >Journal of Fixed Point Theory and Applications</magazine>
 <link type="MathSciNet" code="yyy"></link>
-<link type="Zentralblatt" code="Zbl yyy"></link>
+<link type="Zentralblatt" code="Zbl 7972495">https://zbmath.org/7972495</link>
 <link type="DOI"  code="10.1007/s11784-024-01148-1" >https://doi.org/10.1007/s11784-024-01148-1</link>
 <word one="zzz" two="zzz" three="zzz" />
 </paper>
@@ -1156,7 +1156,6 @@
 <word one="zzz" two="zzz" three="zzz" />
 <file type="pdf"  free="no">https://math.uh.edu/~hjm/restricted/pdf50(2)/12macias.pdf</file>
 </paper>
-
 
 
 
