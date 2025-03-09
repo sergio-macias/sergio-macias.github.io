@@ -1110,7 +1110,7 @@
 <coauthor name="Javier Camargo" />
 </coauthors>
 <magazine issn="2180-4206" vol="47" year="2024" begin-page="95" end-page="95">Bulletin of the Malaysian Mathematical Sciences Society</magazine>
-<link type="MathSciNet" code="xxx" >https://mathscinet.ams.org/mathscinet-getitem?mr=xxx</link>
+<link type="MathSciNet" code="MR4736307" >https://mathscinet.ams.org/mathscinet-getitem?mr=4736307</link>
 <link type="Zentralblatt" code="Zbl 7842729">https://zbmath.org/7842729</link>
 <link type="DOI"  code="10.1007/s40840-024-01688-2" >https://doi.org/10.1007/s40840-024-01688-2</link>
 <word one="Wilder space" two="Uniform property of Effros" three="Homogeneous continuum" />
@@ -1125,7 +1125,7 @@
 <coauthor name="Fernando García" />
 </coauthors>
 <magazine issn="0146-4124" vol="65" year="2025" begin-page="75" end-page="97" >Topology Proceedings</magazine>
-<link type="MathSciNet" code="yyy"></link>
+<link type="MathSciNet" code="MR4824890">https://mathscinet.ams.org/mathscinet-getitem?mr=4824890</link>
 <link type="Zentralblatt" code="Zbl yyy"></link>
 <file type="pdf" free="no">http://topology.nipissingu.ca/tp/reprints/v65/tp65005p1.pdf</file>
 <word one="yyy" two="yyy" three="yyy" />
@@ -1138,7 +1138,7 @@
 <coauthor name="Javier Camargo" />
 </coauthors>
 <magazine issn="1661-7746" vol="27" year="2025" begin-page="1" end-page="7" >Journal of Fixed Point Theory and Applications</magazine>
-<link type="MathSciNet" code="yyy"></link>
+<link type="MathSciNet" code="MR4844347">https://mathscinet.ams.org/mathscinet-getitem?mr=4844347</link>
 <link type="Zentralblatt" code="Zbl 7972495">https://zbmath.org/7972495</link>
 <link type="DOI"  code="10.1007/s11784-024-01148-1" >https://doi.org/10.1007/s11784-024-01148-1</link>
 <word one="zzz" two="zzz" three="zzz" />
@@ -1156,6 +1156,7 @@
 <word one="zzz" two="zzz" three="zzz" />
 <file type="pdf"  free="no">https://math.uh.edu/~hjm/restricted/pdf50(2)/12macias.pdf</file>
 </paper>
+
 
 
 
