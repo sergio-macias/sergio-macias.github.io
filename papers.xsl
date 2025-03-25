@@ -117,6 +117,9 @@
     <xsl:if test="@type ='DOI'">DOI:
     <xsl:value-of select="@code" />
     </xsl:if>
+    <xsl:if test="@type ='ResearchGate'">ResearchGate:
+    <xsl:value-of select="@code" />
+    </xsl:if>
     <xsl:if test="@ref !='xxx'">
     -<xsl:value-of select="@ref" />
     </xsl:if>
