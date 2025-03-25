@@ -6,6 +6,7 @@
         <title>Sergio Mac&#237;as</title>
         <link rel="stylesheet" type="text/css" href="css/common.css" />
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+        <base target="_blank" />
 
         <script type="text/x-mathjax-config">
          MathJax.Hub.Config({
@@ -106,7 +107,7 @@
   </xsl:template>
 
    <xsl:template match="link">
-    <a class="{@type}" href="{.}" target="_blank">
+    <a class="{@type}" href="{.}" >
 
     <xsl:if test="@type ='MathSciNet'">
     <xsl:value-of select="@code" />
@@ -117,8 +118,7 @@
     <xsl:if test="@type ='DOI'">DOI:
     <xsl:value-of select="@code" />
     </xsl:if>
-    <xsl:if test="@type ='ResearchGate'">ResearchGate:
-    <xsl:value-of select="." />
+    <xsl:if test="@type ='ResearchGate'">ResearchGate
     </xsl:if>
     <xsl:if test="@ref !='xxx'">
     -<xsl:value-of select="@ref" />
@@ -130,7 +130,7 @@
   </xsl:template>
 
   <xsl:template match="file">
-    <a class="{@free}" href="{.}" target="_blank">
+    <a class="{@free}" href="{.}" >
       <img src="images/{@type}.gif" />
     </a>
   </xsl:template>

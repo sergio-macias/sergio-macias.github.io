@@ -11,6 +11,7 @@ color: #636363;
 a {
 color: #8F8F8F;
 text-decoration: none;
+margin-left:2px;
 }
 
 a:hover {
@@ -24,6 +25,7 @@ a.DOI:hover { color: #ffff99; }
 
 a.MathSciNet:hover { color: #ffff99; }
 a.Zentralblatt:hover { color: #ffff99; }
+a.ResearchGate:hover {  color: #ffff99; }
 
 
 span.papertitle {
@@ -106,8 +108,10 @@ display:inline-block;
 a.pdf{
 background: url(images/pdf.gif) no-repeat left top;
 }
+
 div#footer{
 margin: 0px auto;
 width:500px;
 }
+
 a.contactLink, a.contactLink:hover { color: rgba(0,153,255,1); }
