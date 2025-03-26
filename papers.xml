@@ -33,6 +33,7 @@
 <magazine issn="0146-4124" vol="20" year="1995" begin-page="191" end-page="205">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR1429181" ref="98b:54045">https://mathscinet.ams.org/mathscinet-getitem?mr=1429181</link>
 <link type="Zentralblatt" code="Zbl 0912.54015">http://zbmath.org/0912.54015</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267150561_Coverings_of_continua</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v20/tp20012.pdf</file>
 <word one="continuum" two="hyperspace" three="covering" />
 </paper>
@@ -44,6 +45,7 @@
 <magazine issn="0002-9939" vol="125-10" year="1997" begin-page="3069" end-page="3073">Proc. Amer. Math. Soc.</magazine>
 <link type="MathSciNet" code="MR1425134" ref="97m:54021">https://mathscinet.ams.org/mathscinet-getitem?mr=1425134</link>
 <link type="Zentralblatt" code="Zbl 0880.54009">http://zbmath.org/0880.54009</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/266360326_Hyperspaces_and_cones</link>
 <file type="pdf" free="yes">http://www.ams.org/journals/proc/1997-125-10/S0002-9939-97-04175-0/S0002-9939-97-04175-0.pdf</file>
 <word one="continuum" two="hyperspace" three="cone" />
 <link type="DOI" code="110.1090/S0002-9939-97-04175-0">http://dx.doi.org/10.1090/S0002-9939-97-04175-0</link>
@@ -57,6 +59,7 @@
 <magazine issn="0017-095X" vol="32(52)" year="1997" begin-page="259" end-page="262">Glasnik Matemati&#269;ki</magazine>
 <link type="MathSciNet" code="MR1608120" ref="98m:54038">https://mathscinet.ams.org/mathscinet-getitem?mr=1608120</link>
 <link type="Zentralblatt" code="Zbl 0887.54011">http://zbmath.org/0887.54011</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267055248_On_C-determined_continua</link>
 <file type="gbk"  free="yes">http://books.google.com/books?id=6Xibd8ElUdUC&amp;pg=PA259</file>
 <word one="continuum" two="hyperspace" three="C-determined" />
 </paper>
@@ -68,6 +71,7 @@
 <magazine issn="0166-8641" vol="92-2" year="1999" begin-page="173" end-page="182">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR1669815" ref="2000a:54009">https://mathscinet.ams.org/mathscinet-getitem?mr=1669815</link>
 <link type="Zentralblatt" code="Zbl 0967.54011">http://zbmath.org/0967.54011</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/223124634_On_symmetric_products_of_continua</link>
 <link type="DOI" code="10.1016/S0166-8641(97)00233-2">http://dx.doi.org/10.1016/S0166-8641(97)00233-2</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864197002332</file>
 <word one="continuum" two="hyperspace" three="symmetric product" />
@@ -80,6 +84,7 @@
 <magazine issn="0146-4124" vol="22" year="1997" begin-page="281" end-page="296">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR1657883" ref="99h:54046">https://mathscinet.ams.org/mathscinet-getitem?mr=1657883</link>
 <link type="Zentralblatt" code="Zbl 0917.54038">http://zbmath.org/0917.54038</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/268318997_Aposyndetic_properties_of_symmetric_products_of_continua</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v22/tp22119.pdf</file>
 <word one="continuum" two="symmetric product" three="aposyndesis" />
 </paper>
@@ -91,6 +96,7 @@
 <magazine issn="0146-4124" vol="23" year="1998" begin-page="263" end-page="274">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR1743813" >https://mathscinet.ams.org/mathscinet-getitem?mr=1743813</link>
 <link type="Zentralblatt" code="Zbl 0943.54012">http://zbmath.org/0943.54012</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/266549929_Pseudo_exteriors_in_hyperspaces</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v23/tp23118.pdf</file>
 <word one="continuum" two="hyperspace" three="pseudo exterior" />
 </paper>
@@ -120,10 +126,10 @@
 <magazine issn="0271-4132;246" vol="246" year="1999" begin-page="137" end-page="141" note="Providence, RI">Geometry and Topology in Dynamics, Contemporary Math. Series of Amer. Math. Soc.</magazine>
 <link type="MathSciNet" code="MR1732377" ref="2001b:54011">https://mathscinet.ams.org/mathscinet-getitem?mr=1732377</link>
 <link type="Zentralblatt" code="Zbl 0938.54009">http://zbmath.org/0938.54009</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/2142107_Symmetric_Products_and_Q-manifolds</link>
 <link type="DOI"  code="10.1090/conm/246/03780">http://dx.doi.org/10.1090/conm/246/03780</link>
 <file type="pdf" free="yes">https://arxiv.org/pdf/math/9906162.pdf</file>
 <word one="continuum" two="symmetric product" three="Q-manifold" />
-<link type="ResearchGate" code=" ResearchGate">https://www.researchgate.net/publication/2142107_Symmetric_Products_and_Q-manifolds</link>
 </paper>
 
 <paper num="10">
@@ -133,6 +139,7 @@
 <magazine issn="1405-213X" vol="(3) 5" year="1999" begin-page="415" end-page="418">Boletín de la Sociedad Matemática Mexicana</magazine>
 <link type="MathSciNet" code="MR1738415" ref="2000m:54037">https://mathscinet.ams.org/mathscinet-getitem?mr=1738415</link>
 <link type="Zentralblatt" code="Zbl 0938.54010">http://zbmath.org/0938.54010</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267016521_Hereditarily_indecomposable_continua_have_unique_hyperspace_2_X</link>
 <file type="pdf" free="yes">https://www.smm.org.mx/boletin_anterior/v5/n2.pdf</file>
 <word one="continuum" two="hyperspace" three="hereditarily indecomposable" />
 </paper>
@@ -156,6 +163,7 @@
 <magazine issn="0146-4124" vol="25" year="2000" begin-page="255" end-page="276">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR1875596" ref="2002m:54011">https://mathscinet.ams.org/mathscinet-getitem?mr=1875596</link>
 <link type="Zentralblatt" code="Zbl 1006.54016">http://zbmath.org/1006.54016</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/251515779_On_the_hyperspaces_CnX_of_a_continuum_X_II</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v25/tp25118.pdf</file>
 <word one="continuum" two="n-fold hyperspace" three="unique hyperspace" />
 </paper>
@@ -167,6 +175,7 @@
 <magazine issn="0146-4124" vol="26" year="2001-2002" begin-page="247" end-page="254">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR1966995" ref="2004b:54017">https://mathscinet.ams.org/mathscinet-getitem?mr=1966995</link>
 <link type="Zentralblatt" code="Zbl 1033.54005">http://zbmath.org/1033.54005</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/268312687_On_arcwise_accessibility_in_hyperspaces</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v26/tp26117.pdf</file>
 <word one="continuum" two="hyperspace" three="arcwise connected" />
 </paper>
@@ -192,6 +201,7 @@
 <magazine issn="0918-4732" vol="19-1" year="2001" begin-page="133" end-page="138">Questions and Answers in General Topology</magazine>
 <link type="MathSciNet" code="MR1815354" ref="2002d:54004">https://mathscinet.ams.org/mathscinet-getitem?mr=1815354</link>
 <link type="Zentralblatt" code="Zbl 0965.54016">http://zbmath.org/0965.54016</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/268322513_Connectedness_of_the_hyperspace_of_closed_subsets_with_at_most_n_components</link>
 <word one="Hausdorff continuum" two="hyperspace" three="component" />
 </paper>
 
@@ -217,9 +227,9 @@
 <magazine issn="0017-095X" vol="37(57)-2" year="2002" begin-page="365" end-page="373">Glasnik Matemati&#269;ki</magazine>
 <link type="MathSciNet" code="MR1951539" ref="2003m:54014">https://mathscinet.ams.org/mathscinet-getitem?mr=1951539</link>
 <link type="Zentralblatt" code="Zbl 1026.54008">http://zbmath.org/1026.54008</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/27190528_Smoothness_in_n-hold_hyperspaces</link>
 <file type="pdf" free="yes">https://web.math.pmf.unizg.hr/glasnik/37.2/37%282%29-12.pdf</file>
 <word one="continuum" two="n-fold hyperspace" three="smoothness" />
-<link type="ResearchGate" code=" ResearchGate">https://www.researchgate.net/publication/27190528_Smoothness_in_n-hold_hyperspaces</link>
 </paper>
 
 <paper num="18">
@@ -231,6 +241,7 @@
 <magazine issn="0918-4732" vol="19-2" year="2001" begin-page="227" end-page="241">Questions and Answers in General Topology</magazine>
 <link type="MathSciNet" code="MR1854738" ref="2002j:54008">https://mathscinet.ams.org/mathscinet-getitem?mr=1854738</link>
 <link type="Zentralblatt" code="Zbl 1018.54007">http://zbmath.org/1018.54007</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267150562_Z-sets_in_hyperspaces</link>
 <word one="continuum" two="hyperspace" three="Z-set" />
 </paper>
 
@@ -243,6 +254,7 @@
 <magazine issn="0166-8641" vol="126" year="2002" begin-page="29" end-page="36">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR1934250" ref="2003h:54047">https://mathscinet.ams.org/mathscinet-getitem?mr=1934250</link>
 <link type="Zentralblatt" code="Zbl 1012.54013">http://zbmath.org/1012.54013</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/241080607_Fans_whose_hyperspace_of_subcontinua_are_cones</link>
 <link type="DOI" code="10.1016/S0166-8641(02)00003-2">http://dx.doi.org/10.1016/S0166-8641(02)00003-2</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864102000032</file>
 <word one="continuum" two="hyperspace" three="fan" />
@@ -260,6 +272,7 @@
 <magazine issn="0865-2090" vol="13/1" year="2002" begin-page="85" end-page="89">Mathematica Pannonica</magazine>
 <link type="MathSciNet" code="MR1888323" ref="2003d:54050">https://mathscinet.ams.org/mathscinet-getitem?mr=1888323</link>
 <link type="Zentralblatt" code="Zbl 0996.54044"> http://zbmath.org/0996.54044</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/265310625_An_arcwise_connected_continuum_without_nonboundary_proper_arcwise_connected_subcontinua</link>
 <file type="pdf" free="yes">http://ttk.pte.hu/mii/html/pannonica/index_elemei/mp13-1/mp13-1-085-089.pdf</file>
 <word one="continuum" two="arcwise connected" three="boundary" />
 </paper>
@@ -271,6 +284,7 @@
 <magazine issn="0146-4124" vol="27" year="2003" begin-page="217" end-page="222">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR2048932" ref="2005a:54011">https://mathscinet.ams.org/mathscinet-getitem?mr=2048932</link>
 <link type="Zentralblatt" code="Zbl 1075.54016">http://zbmath.org/1075.54016</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/266549906_Fans_whose_hyperspaces_are_cones</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v27/tp27117.pdf</file>
 <word one="fan" two="hyperspace" three="cone" />
 </paper>
@@ -285,6 +299,7 @@
 <magazine issn="0166-8641" vol="138" year="2004" begin-page="109" end-page="124">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR2035475" ref="2004m:54012">https://mathscinet.ams.org/mathscinet-getitem?mr=2035475</link>
 <link type="Zentralblatt" code="Zbl 1063.54005">http://zbmath.org/1063.54005</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/232384407_On_the_hyperspace_suspension_of_a_continuum</link>
 <link type="DOI" code="10.1016/j.topol.2003.08.024">http://dx.doi.org/10.1016/j.topol.2003.08.024</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864103002669</file>
 <word one="continuum" two="hyperspace" three="hyperspace suspension" />
@@ -297,6 +312,7 @@
 <magazine issn="0166-8641" vol="138" year="2004" begin-page="125" end-page="138">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR2035476" ref="2004m:54014">https://mathscinet.ams.org/mathscinet-getitem?mr=2035476</link>
 <link type="Zentralblatt" code="Zbl 1124.54003">http://zbmath.org/1124.54003</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/243114748_On_the_n-fold_hyperspace_suspension_of_continua_II</link>
 <link type="DOI" code="10.1016/j.topol.2003.08.023">http://dx.doi.org/10.1016/j.topol.2003.08.023</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864103002670</file>
 <word one="continuum" two="hyperspace" three="n-fold hyperspace suspension" />
@@ -309,6 +325,7 @@
 <magazine issn="0146-4124" vol="28" year="2004" begin-page="143" end-page="152">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR2105453" ref="2005g:54020">https://mathscinet.ams.org/mathscinet-getitem?mr=2105453</link>
 <link type="Zentralblatt" code="Zbl 1081.54010">http://zbmath.org/1081.54010</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267150491_Induced_maps_on_n-fold_hyperspace_suspensions</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v28/tp28109.pdf</file>
 <word one="continuum" two="hyperspace suspension" three="induced map" />
 </paper>
@@ -332,6 +349,7 @@
 <magazine issn="0362-1588" vol="32-1" year="2006" begin-page="161" end-page="165">Houston Journal of Mathematics</magazine>
 <link type="MathSciNet" code="MR2202359" ref="2005d:54012">https://mathscinet.ams.org/mathscinet-getitem?mr=2202359</link>
 <link type="Zentralblatt" code="Zbl 1102.54021">http://zbmath.org/1102.54021</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267129405_A_class_of_one-dimensional_nonlocally_connected_continua_for_which_the_set_function_T_is_continuous</link>
 <file type="pdf"  free="no">http://math.uh.edu/~hjm/restricted/pdf32%281%29/10macias.pdf</file>
 <word one="continuum" two="set function T" three="one-dimensional" />
 </paper>
@@ -369,6 +387,7 @@
 <magazine issn="0146-4124" vol="30" year="2006" begin-page="335" end-page="340">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR2280676" ref="2007i:54023">https://mathscinet.ams.org/mathscinet-getitem?mr=2280676</link>
 <link type="Zentralblatt" code="Zbl 1119.54314">http://zbmath.org/1119.54314</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/266549927_Correction_to_the_paper_On_the_hyperspaces_C_n_X_of_a_continuum_X_II</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v30/tp30122.pdf</file>
 <word one="continuum" two="hyperspace" three="dimension" />
 </paper>
@@ -380,6 +399,7 @@
 <magazine issn="0166-8641" vol="153-18" year="2006" begin-page="3397" end-page="3401">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR2270591" ref="2008a:54041">https://mathscinet.ams.org/mathscinet-getitem?mr=2270591</link>
 <link type="Zentralblatt" code="Zbl 1116.54011">http://zbmath.org/1116.54011</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/232384419_Homogeneous_continua_for_which_the_set_function_T_is_continuous</link>
 <link type="DOI" code="10.1016/j.topol.2006.02.003">http://dx.doi.org/10.1016/j.topol.2006.02.003</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864106000551</file>
 <word one="continuum" two="set function T" three="homogeneous" />
@@ -394,6 +414,7 @@
 <magazine issn="0166-8641" vol="154" year="2007" begin-page="39" end-page="53">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR2271772" ref="2007g:54013">https://mathscinet.ams.org/mathscinet-getitem?mr=2271772</link>
 <link type="Zentralblatt" code="Zbl 1112.54006">http://zbmath.org/1112.54006</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/242994453_Various_types_of_local_connectedness_in_n-fold_hyperspaces</link>
 <link type="DOI" code="10.1016/j.topol.2006.03.015">http://dx.doi.org/10.1016/j.topol.2006.03.015</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864106001180</file>
 <word one="continua" two="local connectedness" three="n-fold hyperspace" />
@@ -408,6 +429,7 @@
 <magazine issn="0362-1588" vol="33-4" year="2007" begin-page="1047" end-page="1057" to-appear="yes">Houston Journal of Mathematics</magazine>
 <link type="MathSciNet" code="MR2350079" ref="2008i:54013">https://mathscinet.ams.org/mathscinet-getitem?mr=2350079</link>
 <link type="Zentralblatt" code="Zbl 1158.54002">http://zbmath.org/1158.54002</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/266717612_Induced_maps_on_n-fold_hyperspaces</link>
 <file type="pdf"  free="no">http://math.uh.edu/~hjm/restricted/pdf33%284%29/09lopez.pdf</file>
 <word one="continuum" two="induced map" three="hyperspace" />
 </paper>
@@ -419,6 +441,7 @@
 <magazine issn="0010-1354" vol="109-1" year="2007" begin-page="163" end-page="170">Colloquium Mathematicum</magazine>
 <link type="MathSciNet" code="MR2308833" ref="2008d:54019">https://mathscinet.ams.org/mathscinet-getitem?mr=2308833</link>
 <link type="Zentralblatt" code="Zbl 1144.54009">http://zbmath.org/1144.54009</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/251067781_A_decomposition_theorem_for_a_class_of_continua_for_which_the_set_function_T_is_continuous</link>
 <link type="DOI"  code="10.4064/cm109-1-13">https://doi.org/10.4064/cm109-1-13</link>
 <file type="pdf" free="yes">https://www.impan.pl/shop/en/publication/transaction/download/product/87151</file>
 <word one="continuum" two="set function T" three="decomposition space" />
@@ -433,6 +456,7 @@
 <magazine issn="0166-8641" vol="154-16" year="2007" begin-page="2988" end-page="2996">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR2355884" ref="2008h:54021">https://mathscinet.ams.org/mathscinet-getitem?mr=2355884</link>
 <link type="Zentralblatt" code="Zbl 1130.54004">http://zbmath.org/1130.54004</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/257003347_On_the_set_function_RR</link>
 <link type="DOI"  code="10.1016/j.topol.2007.06.017">http://dx.doi.org/10.1016/j.topol.2007.06.017</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864107002283</file>
 <word one="continuum" two="arcwise connected" three="set function R" />
@@ -447,6 +471,7 @@
 <magazine issn="0146-4124" vol="34" year="2009" begin-page="131" end-page="145">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR2506265" ref="2010c:54046">https://mathscinet.ams.org/mathscinet-getitem?mr=2506265</link>
 <link type="Zentralblatt" code="Zbl 1181.54038">http://zbmath.org/1181.54038</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/268720161_On_hereditarily_decomposable_homogeneous_continua</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v34/tp34010.pdf</file>
 <word one="homogeneous continuum" two="hereditarily decomposable" three="continuum" />
 </paper>
@@ -458,6 +483,7 @@
 <magazine issn="0146-4124" vol="34" year="2009" begin-page="167" end-page="173">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR2511903" ref="2010c:54011">https://mathscinet.ams.org/mathscinet-getitem?mr=2511903</link>
 <link type="Zentralblatt" code="Zbl 1221.54012">http://zbmath.org/1221.54012</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/268720262_On_the_continuity_of_the_set_function_K</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v34/tp34013.pdf</file>
 <word one="continuum" two="set functions T and K of Jones" three="hyperspace" />
 </paper>
@@ -469,6 +495,7 @@
 <magazine issn="0166-8641" vol="156-14" year="2009" begin-page="2357" end-page="2363">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR2547780" ref="2010i:54041">https://mathscinet.ams.org/mathscinet-getitem?mr=2547780</link>
 <link type="Zentralblatt" code="Zbl 1178.54016">http://zbmath.org/1178.54016</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/238852610_On_continuously_irreducible_continua</link>
 <link type="DOI"  code="10.1016/j.topol.2009.01.024">http://dx.doi.org/10.1016/j.topol.2009.01.024</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864109002843</file>
 <word one="irreducible continuum" two="hyperspace" three="set function T" />
@@ -481,6 +508,7 @@
 <magazine issn="0017-095X" vol="44(64)-2" year="2009" begin-page="479" end-page="492" >Glasnik Matemati&#269;ki</magazine>
 <link type="MathSciNet" code="MR2587313" ref="2011d:54016">https://mathscinet.ams.org/mathscinet-getitem?mr=2587313</link>
 <link type="Zentralblatt" code="Zbl 1205.54021">http://zbmath.org/1205.54021</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/243114585_ON_n-fold_hyperspaces_of_continua_II</link>
 <link type="DOI"  code="10.3336/gm.44.2.13">https://doi.org/10.3336/gm.44.2.13</link>
 <file type="pdf" free="yes">https://web.math.pmf.unizg.hr/glasnik/44.2/44%282%29-13.pdf</file>
 <word one="n-fold hyperspace" two="continuum" three="n-fold hyperspace suspension" />
@@ -493,6 +521,7 @@
 <magazine issn="0362-1588" vol="37-4" year="2011" begin-page="1297" end-page="1305" >Houston Journal of Mathematics</magazine>
 <link type="MathSciNet" code="MR2875272" >https://mathscinet.ams.org/mathscinet-getitem?mr=2875272</link>
 <link type="Zentralblatt" code="Zbl 1236.54016">http://zbmath.org/1236.54016</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267019544_On_the_idempotency_of_the_set_function_TT</link>
 <file type="pdf"  free="no">http://math.uh.edu/~hjm/restricted/pdf37%284%29/17macias.pdf</file>
 <word one="set function T" two="idempotency" three="hyperspace" />
 </paper>
@@ -506,6 +535,7 @@
 <magazine issn="0010-1354" vol="121" year="2010" begin-page="79" end-page="91">Colloquium Mathematicum</magazine>
 <link type="MathSciNet" code="MR2725703" ref="2012b:54030">https://mathscinet.ams.org/mathscinet-getitem?mr=2725703</link>
 <link type="Zentralblatt" code="Zbl 1222.54011">http://zbmath.org/1222.54011</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267975950_The_set_functions_T_and_K_and_irreducible_continua</link>
 <file type="pdf" free="yes">https://www.impan.pl/shop/en/publication/transaction/download/product/87471</file>
 <link type="DOI"  code="10.4064/cm121-1-7">https://doi.org/10.4064/cm121-1-7</link>
 <word one="set functions T and K" two="irreducible continua" three="hyperspace" />
@@ -529,6 +559,7 @@
 <magazine issn="0017-095X" vol="46(66)-2" year="2011" begin-page="473" end-page="483">Glasnik Matemati&#269;ki</magazine>
 <link type="MathSciNet" code="MR2855026" ref="2012j:54020">https://mathscinet.ams.org/mathscinet-getitem?mr=2855026</link>
 <link type="Zentralblatt" code="Zbl 1239.54005">http://zbmath.org/1239.54005</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267187036_Retractions_and_hyperspaces</link>
 <link type="DOI"  code="10.3336/gm.46.2.15">https://doi.org/10.3336/gm.46.2.15</link>
 <file type="pdf" free="yes">https://web.math.pmf.unizg.hr/glasnik/46.2/46%282%29-15.pdf</file>
 <word one="n-fold hyperspace" two="n-fold symmetric product" three="retraction" />
@@ -541,6 +572,7 @@
 <magazine issn="0146-4124" vol="40" year="2012" begin-page="215" end-page="226">Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR2846736" >https://mathscinet.ams.org/mathscinet-getitem?mr=2846736</link>
 <link type="Zentralblatt" code="Zbl 1277.54017">http://zbmath.org/1277.54017</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267150493_Deformation_retracts_and_Hilbert_cubes_in_n-fold_hyperspaces</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v40/tp40019.pdf</file>
 <word one="deformation retracts" two="Hilbert cube" three="n-fold hyperspace" />
 </paper>
@@ -554,6 +586,7 @@
 <magazine issn="0166-8641" vol="159-3" year="2012" begin-page="891" end-page="899" >Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR2868889" ref="2012m:54044">https://mathscinet.ams.org/mathscinet-getitem?mr=2868889</link>
 <link type="Zentralblatt" code="Zbl 1241.54018">http://zbmath.org/1241.54018</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/257003503_On_freely_decomposable_maps</link>
 <link type="DOI"  code="10.1016/j.topol.2011.12.006">http://dx.doi.org/10.1016/j.topol.2011.12.006</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864111006018</file>
 <word one="freely decomposable map" two="continuum" three="freely decomposable continuum" />
@@ -568,6 +601,7 @@
 <magazine issn="0017-095X" vol="48(68)-1" year="2013" begin-page="103" end-page="114">Glasnik Matemati&#269;ki</magazine>
 <link type="MathSciNet" code="MR3064247" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=3064247</link>
 <link type="Zentralblatt" code="Zbl 1275.54007"> http://zbmath.org/1275.54007</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/268300983_Strong_size_properties</link>
 <link type="DOI"  code="10.3336/gm.48.1.10">https://doi.org/10.3336/gm.48.1.10</link>
 <file type="pdf"  free="no">https://web.math.pmf.unizg.hr/glasnik/48.1/48%281%29-10.pdf</file>
 <word one="continuum" two="hyperspace" three="strong size map" />
@@ -582,6 +616,7 @@
 <magazine issn="0010-1354" vol="128-1" year="2012" begin-page="109" end-page="132" to-appear="yes">Colloquium Mathematicum</magazine>
 <link type="MathSciNet" code="MR2993464" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=2993464</link>
 <link type="Zentralblatt" code="Zbl 1275.54011">http://zbmath.org/1275.54011</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/267175349_1over_2-Homogeneous_hyperspace_suspensions</link>
 <file type="pdf"  free="no">https://www.impan.pl/en/publishing-house/journals-and-series/colloquium-mathematicum/all/128/1/87319/1-over-2-homogeneous-hyperspace-suspensions</file>
 <link type="DOI"  code="10.4064/cm128-1-10">https://doi.org/10.4064/cm128-1-10</link>
 <word one="1/2 homogeneity" two="continuum" three="hyperspace suspension" />
@@ -596,6 +631,7 @@
 <magazine issn="0017-095X" vol="48(68)-2" year="2013" begin-page="429" end-page="442" >Glasnik Matemati&#269;ki</magazine>
 <link type="MathSciNet" code="MR3151117" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=3151117</link>
 <link type="Zentralblatt" code="Zbl 1320.54010">http://zbmath.org/1320.54010</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/264002885_On_strongly_freely_decomposable_and_induced_maps</link>
 <link type="DOI"  code="10.3336/gm.48.2.14">https://doi.org/10.3336/gm.48.2.14</link>
 <file type="pdf"  free="no">https://web.math.pmf.unizg.hr/glasnik/48.2/48%282%29-14.pdf</file>
 <word one="freely decomposable map" two="strongly freely decomposable" three="induced map" />
@@ -610,6 +646,7 @@
 <magazine issn="0166-8641" vol="160-10" year="2013" begin-page="1115" end-page="1122" to-appear="yes">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR3056002" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=3056002</link>
 <link type="Zentralblatt" code="Zbl 06238996">http://zbmath.org/06238996</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/257003554_Embedding_suspensions_into_hyperspace_suspensions</link>
 <link type="DOI" code="10.1016/j.topol.2013.05.005">http://dx.doi.org/10.1016/j.topol.2013.05.005</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864113001703</file>
 <!--
@@ -627,6 +664,7 @@
 <magazine issn="0362-1588" vol="41(4)-4" year="2015" begin-page="1313" end-page="1324" >Houston Journal of Mathematics</magazine>
 <link type="MathSciNet" code="MR3455360" ref="">https://mathscinet.ams.org/mathscinet-getitem?mr=3455360</link>
 <link type="Zentralblatt" code="Zbl 1343.54008">https://zbmath.org/1343.54008</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/297766150_Locally_one-to-one_and_covering_maps</link>
 <file type="pdf"  free="no">http://math.uh.edu/~hjm/restricted/pdf41%284%29/13camargo.pdf</file>
 <word one="continuum" two="locally one-to-one map" three="covering map" />
 </paper>
@@ -639,6 +677,7 @@
 <magazine issn="0146-4124" vol="46" year="2015" begin-page="55" end-page="65" >Topology Proceedings</magazine>
 <link type="MathSciNet" code="MR3218258" >https://mathscinet.ams.org/mathscinet-getitem?mr=3218258</link>
 <link type="Zentralblatt" code="Zbl 1322.54020">https://zbmath.org/1322.54020</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/288520370_A_note_on_the_set_functions_T_and_K</link>
 <file type="pdf" free="yes">http://topology.nipissingu.ca/tp/reprints/v46/tp46006.pdf</file>
 <word one="continuum" two="set function T" three="set function K" />
 </paper>
@@ -665,6 +704,7 @@
 <magazine issn="0166-8641" vol="180-1" year="2015" begin-page="142" end-page="160">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR3293273" >https://mathscinet.ams.org/mathscinet-getitem?mr=3293273</link>
 <link type="Zentralblatt" code="Zbl 1306.54025">http://zbmath.org/1306.54025</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/271274863_-Homogeneous_n-fold_hyperspace_suspensions</link>
 <link type="DOI" code="10.1016/j.topol.2014.11.010">http://dx.doi.org/10.1016/j.topol.2014.11.010</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864114004441</file>
 <word one="continuum" two="n-fold hyperspace suspension" three="1/2 homogeneity" />
@@ -680,10 +720,10 @@
 <magazine issn="0166-8641" vol="195" year="2015" begin-page="209" end-page="225">Topology and Its Applications (special issue dedicated to Mary Ellen Rudin)</magazine>
 <link type="MathSciNet" code="MR3414885" >https://mathscinet.ams.org/mathscinet-getitem?mr=3414885</link>
 <link type="Zentralblatt" code="Zbl 1333.54022">https://zbmath.org/1333.54022</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/283633200_On_T-closed_sets</link>
 <link type="DOI"  code="10.1016/j.topol.2015.09.022">http://dx.doi.org/10.1016/j.topol.2015.09.022</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864115003958</file>
 <word one="continuum" two="set function T" three="T-closed set" />
-<link type="ResearchGate" code=" ResearchGate">https://www.researchgate.net/publication/283633200_On_T-closed_sets</link>
 </paper>
 
 <paper num="54">
@@ -696,6 +736,7 @@
 <magazine issn="0017-095X" vol="50(70)-2" year="2015" begin-page="489" end-page="512" >Glasnik Matemati&#269;ki</magazine>
 <link type="MathSciNet" code="MR3437503" >https://mathscinet.ams.org/mathscinet-getitem?mr=3437503</link>
 <link type="Zentralblatt" code="Zbl 1347.54032">https://zbmath.org/1347.54032</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/288872608_More_on_induced_maps_on_n-fold_symmetric_product_suspensions</link>
 <link type="DOI"  code="10.3336/gm.50.2.15">https://doi.org/10.3336/gm.50.2.15</link>
 <file type="pdf"  free="no">https://web.math.pmf.unizg.hr/glasnik/50.2/50%282%29-15.pdf</file>
 <word one="continuum" two="n-fold symmetric product suspension" three="induced map" />
@@ -709,6 +750,7 @@
 <magazine issn="0972-415X" vol="18" year="2015" begin-page="1" end-page="14">JP Journal of Geometry and Topology</magazine>
 <link type="MathSciNet" code="MR3445273 " >https://mathscinet.ams.org/mathscinet-getitem?mr=3445273</link>
 <link type="Zentralblatt" code="Zbl 1337.54024">https://zbmath.org/1337.54024</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/282966408_ON_CONTINUOUSLY_TYPE_A'_theta-CONTINUA</link>
 <link type="DOI"  code="10.17654/JPGTAug2015_001_014">https://doi.org/10.17654/JPGTAug2015_001_014</link>
 <word one="theta-continuum" two="continuous decomposition" three="type A' continuum" />
 </paper>
@@ -722,6 +764,7 @@
 <magazine issn="0166-8641" vol="197-1" year="2016" begin-page="154" end-page="166">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR3426913" >https://mathscinet.ams.org/mathscinet-getitem?mr=3426913</link>
 <link type="Zentralblatt" code="Zbl 1331.54007">https://zbmath.org/1331.54007</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/284123445_Quotients_of_n-fold_hyperspaces</link>
 <link type="DOI"  code="10.1016/j.topol.2015.10.001">http://dx.doi.org/10.1016/j.topol.2015.10.001</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864115004356</file>
 <word one="continuum" two="n-fold hyperspace" three="upper semicontinuous decomposition" />
@@ -737,6 +780,7 @@
 <magazine issn="0010-1354" vol="145-2" year="2016" begin-page="157" end-page="166">Colloquium Mathematicum</magazine>
 <link type="MathSciNet" code="MR3557127 " >https://mathscinet.ams.org/mathscinet-getitem?mr=3557127</link>
 <link type="Zentralblatt" code="Zbl 06654792">https://zbmath.org/06654792</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/301645463_Cells_and_n-fold_hyperspaces</link>
 <file type="pdf"  free="no">https://www.impan.pl/en/publishing-house/journals-and-series/colloquium-mathematicum/all/145/2/91535/cells-and-n-fold-hyperspaces</file>
 <link type="DOI"  code="10.4064/cm6527-1-2016" >https://doi.org/10.4064/cm6527-1-2016</link>
 <word one="continuum" two="n-fold hyperspace" three="cells" />
@@ -751,6 +795,7 @@
 <magazine issn="0166-8641" vol="206-1" year="2016" begin-page="93" end-page="114">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR3494434" >https://mathscinet.ams.org/mathscinet-getitem?mr=3494434</link>
 <link type="Zentralblatt" code="Zbl 1342.54009">https://zbmath.org/1342.54009</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/300085771_Symmetric_products_of_generalized_metric_spaces</link>
 <file type="pdf" free="yes">https://www.sciencedirect.com/science/article/pii/S0166864116001474</file>
 <link type="DOI" code="10.1016/j.topol.2016.03.019" >http://dx.doi.org/10.1016/j.topol.2016.03.019</link>
 <word one="generalized metric space" two="n-fold symmetric product" three="metric space" />
@@ -790,6 +835,7 @@
 <magazine issn="0010-1354" vol="xxx" year="2018" begin-page="1" end-page="19">Colloquium Mathematicum</magazine>
 <link type="MathSciNet" code="MR3814000" >https://mathscinet.ams.org/mathscinet-getitem?mr=3814000</link>
 <link type="Zentralblatt" code="Zbl 06911339">https://zbmath.org/06911339</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/323711487_On_the_image_of_Jones'_set_function_mathcal_T</link>
 <file type="pdf" free="yes">https://www.impan.pl/pl/wydawnictwa/czasopisma-i-serie-wydawnicze/colloquium-mathematicum/all/153/1/112404/on-the-image-of-jones-set-function-mathcal-t</file>
 <link type="DOI"  code="10.4064/cm7037-4-2017" >https://doi.org/10.4064/cm7037-4-2017</link>
 </paper>
@@ -801,6 +847,7 @@
 <magazine issn="0166-8641" vol="226" year="2017" begin-page="51" end-page="61">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR3660264" >https://mathscinet.ams.org/mathscinet-getitem?mr=3660264</link>
 <link type="Zentralblatt" code="Zbl 06728655">https://zbmath.org/06728655</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/316713254_On_Jones'_set_function_T_and_the_property_of_Kelley_for_Hausdorff_continua</link>
 <file type="pdf"  free="no">https://www.sciencedirect.com/science/article/pii/S0166864117302523</file>
 <link type="DOI"  code="10.1016/j.topol.2017.04.025" >http://dx.doi.org/10.1016/j.topol.2017.04.025</link>
 <word one="Hausdorff continuum" two="set function T" three="property of Kelly" />
@@ -814,6 +861,7 @@
 <magazine issn="0166-8641" vol="230" year="2017" begin-page="338" end-page="352">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR3702777" >https://mathscinet.ams.org/mathscinet-getitem?mr=3702777</link>
 <link type="Zentralblatt" code="Zbl 06778208">https://zbmath.org/06778208</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/319287490_Hausdorff_continua_and_the_uniform_property_of_Effros</link>
 <file type="pdf"  free="no">https://www.sciencedirect.com/science/article/pii/S0166864117303802</file>
 <link type="DOI"  code="10.1016/j.topol.2017.08.009" >http://dx.doi.org/10.1016/j.topol.2017.08.009</link>
 <word one="hausdorff continuum" two="homogeneous" three="uniform property of effros" />
@@ -828,10 +876,10 @@
 <magazine issn="1078-0947" vol="38(3)" year="2018" begin-page="1007" end-page="1031">Discrete and Continuous Dynamical System - Series A</magazine>
 <link type="MathSciNet" code="MR3808985" >https://mathscinet.ams.org/mathscinet-getitem?mr=3808985</link>
 <link type="Zentralblatt" code="Zbl 06919284">https://zbmath.org/06919284</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/319939856_What_is_topological_about_topological_dynamics</link>
 <file type="pdf" free="yes">https://www.aimsciences.org/article/doi/10.3934/dcds.2018043</file>
 <link type="DOI" code="10.3934/dcds.2018043" >http://dx.doi.org/10.3934/dcds.2018043</link>
 <word one="uniform transitivity" two="uniform devaney chaos" three="uniform shadowing" />
-<link type="ResearchGate" code=" ResearchGate">https://www.researchgate.net/publication/319939856_What_is_topological_about_topological_dynamics</link>
 </paper>
 
 <paper num="65">
@@ -856,6 +904,7 @@
 <magazine issn="0166-8641" vol="266" year="2019" begin-page="106835" end-page="106835" >Topology and its Applications</magazine>
 <link type="MathSciNet" code="MR3993966">https://mathscinet.ams.org/mathscinet-getitem?mr=3993966</link>
 <link type="Zentralblatt" code="Zbl 1429.54039">https://zbmath.org/1429.54039</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/335044982_Some_aspects_related_to_the_Jones'_set_function_T</link>
 <link type="DOI"  code="10.1016/j.topol.2019.106835" >http://dx.doi.org/10.1016/j.topol.2019.106835</link>
 <word one="analytic set" two="borel set" three="Jones set function T" />
 
@@ -872,8 +921,8 @@
 <magazine issn="1300-0098" vol="44" year="2020" begin-page="419" end-page="423" >Turk. J. Math.</magazine>
 <link type="MathSciNet" code="MR4086434">https://mathscinet.ams.org/mathscinet-getitem?mr=4086434</link>
 <link type="Zentralblatt" code="Zbl 07257398">https://zbmath.org/07257398</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/340574571_Conceptions_on_topological_transitivity_in_products_and_symmetric_products</link>
 <link type="DOI"  code="10.3906/mat-1912-67" >https://dx.doi.org/10.3906/mat-1912-67</link>
-
 <file type="pdf" free="yes">https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1338&amp;context=math</file>
 <word one="topological transitivity" two="symmetric products" three="products" />
 </paper>
@@ -888,10 +937,10 @@
 <magazine issn="0865-2090" vol="27" year="2021" begin-page="61" end-page="80">Mathematica Pannonica</magazine>
 <link type="MathSciNet" code="MR4253526">https://mathscinet.ams.org/mathscinet-getitem?mr=4253526</link>
 <link type="Zentralblatt" code="Zbl 1488.54039">https://zbmath.org/1488.54039</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/351566975_Conceptions_of_Topological_Transitivity_on_Symmetric_Products</link>
 <link type="DOI"  code="10.1556/314.2020.00007" >https://doi.org/10.1556/314.2020.00007</link>
 <file type="pdf" free="yes">https://akjournals.com/downloadpdf/journals/314/aop/article-10.1556-314.2020.00007/article-10.1556-314.2020.00007.pdf</file>
 <word one="topological transitivity" two="symmetric products" three="products" />
-<link type="ResearchGate" code=" ResearchGate">https://www.researchgate.net/publication/351566975_Conceptions_of_Topological_Transitivity_on_Symmetric_Products</link>
 </paper>
 
 
@@ -920,6 +969,7 @@
 <magazine issn="0002-9939" vol="149" year="2021" begin-page="671" end-page="685">Proc. Amer. Math. Soc.</magazine>
 <link type="MathSciNet" code="MR4198074">https://mathscinet.ams.org/mathscinet-getitem?mr=4198074</link>
 <link type="Zentralblatt" code="Zbl 07299109">https://www.zbmath.org/07299109</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/339526731_Expansivity_and_unique_shadowing</link>
 <link type="DOI"  code="10.1090/proc/15204" >http://doi.org/10.1090/proc/15204</link>
 <word one="expansivity" two="unique shadowing" three="n-expansivity" />
 </paper>
@@ -947,6 +997,7 @@
 <magazine issn="0166-8641" vol="292" year="2021" begin-page="107635" end-page="107635" >Topology and its Applications</magazine>
 <link type="MathSciNet" code="MR4223412">https://mathscinet.ams.org/mathscinet-getitem?mr=4223412</link>
 <link type="Zentralblatt" code="Zbl 07318682">https://www.zbmath.org/07318682</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/349482226_Dynamics_with_Jones'_set_function_T</link>
 <link type="DOI"  code="10.1016/j.topol.2021.107635" >http://dx.doi.org/10.1016/j.topol.2021.107635</link>
 <word one="dynamics" two="irreducible map" three="Jones set function T" />
 </paper>
@@ -973,7 +1024,7 @@
 <magazine issn="0166-8641" vol="308" year="2022" begin-page="107996" end-page="107996">Topology and its Applications</magazine>
 <link type="MathSciNet" code="MR4362392" >https://mathscinet.ams.org/mathscinet-getitem?mr=4362392</link>
 <link type="Zentralblatt" code="Zbl 7471572">https://zbmath.org/7471572</link>
-
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/357543028_Graphs_have_unique_quotient_hyperspace_C_1_n_X</link>
 <link type="DOI"  code="10.1016/j.topol.2021.107996" >https://doi.org/10.1016/j.topol.2021.107996</link>
 <word one="yyy" two="yyy" three="yyy" />
 </paper>
@@ -987,13 +1038,10 @@
 <magazine issn="1575-5460" vol="21" year="2022" begin-page="1" end-page="43">Qualitative Theory of Dynamical Systems</magazine>
 <link type="MathSciNet" code="MR4372608" >https://mathscinet.ams.org/mathscinet-getitem?mr=4372608</link>
 <link type="Zentralblatt" code="Zbl 7468313">https://zbmath.org/7468313</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/358220004_Dynamics_with_Set-Valued_Functions_and_Coselections</link>
 <link type="DOI"  code="10.1007/s12346-021-00556-9" >https://doi.org/10.1007/s12346-021-00556-9</link>
-<link type="ResearchGate" code=" ResearchGate">https://www.researchgate.net/publication/358220004_Dynamics_with_Set-Valued_Functions_and_Coselections</link>
 <word one="yyy" two="yyy" three="yyy" />
 </paper>
-
-
-
 
 <paper num="76">
 <title>Uniform dynamics</title>
@@ -1015,7 +1063,8 @@
 </coauthors>
 <magazine issn="1989-4147" vol="24" year="2023" begin-page="59" end-page="81">Applied General Topology</magazine>
 <link type="MathSciNet" code="MR4573608" >https://mathscinet.ams.org/mathscinet-getitem?mr=4573608</link>
-<link type="Zentralblatt" code="Zbl 1509.37012">https://zbmath.org/1509.37012</link>
+<link type="Zentralblatt" code="Zbl 1533.54024">https://zbmath.org/1533.54024</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/369833697_Uniformly_refinable_maps</link>
 <link type="DOI"  code="10.4995/agt.2023.17345" >https://doi.org/10.4995/agt.2023.17345</link>
 <file type="pdf"  free="yes">https://polipapers.upv.es/index.php/AGT/article/view/17345/15786</file>
 <word one="yyy" two="yyy" three="yyy" />
@@ -1041,6 +1090,7 @@
 <magazine issn="1337-2211" vol="73-4" year="2023" begin-page="1013" end-page="1022">Mathematica Slovaka</magazine>
 <link type="MathSciNet" code="MR4623271" >https://mathscinet.ams.org/mathscinet-getitem?mr=4623271</link>
 <link type="Zentralblatt" code="Zbl 07729727">https://zbmath.org/07729727</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/372933063_The_Uniform_Effros_Property_and_Local_Homogeneity</link>
 <link type="DOI"  code="10.1515/ms-2023-0075" >https://doi.org/10.1515/ms-2023-0075</link>
 <file type="pdf" free="yes">https://www.degruyter.com/document/doi/10.1515/ms-2023-0075/pdf</file>
 <openAccess>abc</openAccess>
@@ -1055,6 +1105,7 @@
 <magazine issn="0166-8641" vol="341" year="2024" begin-page="108747" end-page="108747">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR4655734" >https://mathscinet.ams.org/mathscinet-getitem?mr=4655734</link>
 <link type="Zentralblatt" code="Zbl 7792379">https://zbmath.org/7792379</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/374490080_The_Set_Functions_K_and_T_and_the_Property_of_Kelley</link>
 <link type="DOI"  code="10.1016/j.topol.2023.108747" >https://doi.org/10.1016/j.topol.2023.108747</link>
 <file type="pdf" free="no">https://www.sciencedirect.com/science/article/abs/pii/S0166864123003401</file>
 <word one="yyy" two="yyy" three="yyy" />
@@ -1084,6 +1135,7 @@
 <magazine issn="0166-8641" vol="342" year="2024" begin-page="108793" end-page="108793">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR4676685" >https://mathscinet.ams.org/mathscinet-getitem?mr=4676685</link>
 <link type="Zentralblatt" code="Zbl 7783270">https://zbmath.org/7783270</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/376383107_Dynamic_properties_for_the_induced_maps_on_symmetric_product_suspensions_of_a_topological_space</link>
 <link type="DOI"  code="10.1016/j.topol.2023.108793" >https://doi.org/10.1016/j.topol.2023.108793</link>
 <file type="pdf" free="no">https://www.sciencedirect.com/science/article/pii/S0166864123003863</file>
 <word one="yyy" two="yyy" three="yyy" />
@@ -1099,6 +1151,7 @@
 <magazine issn="0166-8641" vol="345" year="2024" begin-page="108833" end-page="108833">Topology and Its Applications</magazine>
 <link type="MathSciNet" code="MR4699536" >https://mathscinet.ams.org/mathscinet-getitem?mr=4699536</link>
 <link type="Zentralblatt" code="Zbl 7815891">https://zbmath.org/7815891</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/377539367_On_weakly_continuum-chainable_and_almost_continuum-chainable_continua</link>
 <link type="DOI"  code="10.1016/j.topol.2024.108833" >https://doi.org/10.1016/j.topol.2024.108833</link>
 <file type="pdf" free="no">https://www.sciencedirect.com/science/article/abs/pii/S016686412400018X</file>
 <word one="yyy" two="yyy" three="yyy" />
@@ -1113,6 +1166,7 @@
 <magazine issn="2180-4206" vol="47" year="2024" begin-page="95" end-page="95">Bulletin of the Malaysian Mathematical Sciences Society</magazine>
 <link type="MathSciNet" code="MR4736307" >https://mathscinet.ams.org/mathscinet-getitem?mr=4736307</link>
 <link type="Zentralblatt" code="Zbl 7842729">https://zbmath.org/7842729</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/380064264_On_Wilder_Strongly_Wilder_Continuumwise_Wilder_D_D_and_D_Continua</link>
 <link type="DOI"  code="10.1007/s40840-024-01688-2" >https://doi.org/10.1007/s40840-024-01688-2</link>
 <word one="Wilder space" two="Uniform property of Effros" three="Homogeneous continuum" />
 <file type="pdf" free="yes">https://link.springer.com/content/pdf/10.1007/s40840-024-01688-2.pdf</file>
@@ -1141,13 +1195,14 @@
 <magazine issn="1661-7746" vol="27" year="2025" begin-page="1" end-page="7" >Journal of Fixed Point Theory and Applications</magazine>
 <link type="MathSciNet" code="MR4844347">https://mathscinet.ams.org/mathscinet-getitem?mr=4844347</link>
 <link type="Zentralblatt" code="Zbl 7972495">https://zbmath.org/7972495</link>
+<link type="ResearchGate" code="ResearchGate">https://www.researchgate.net/publication/387507757_A_fixed_point_theorem_of_actions_on_continua_irreducible_about_a_finite_set_and_of_type_ldocumentclass12ptminimal_usepackageamsmath_usepackagewasysym_usepackageamsfonts_usepackageamssymb_usepackageams</link>
 <link type="DOI"  code="10.1007/s11784-024-01148-1" >https://doi.org/10.1007/s11784-024-01148-1</link>
 <word one="zzz" two="zzz" three="zzz" />
 </paper>
 
 <paper num="87">
-<title>MORE ON QUOTIENTS OF $n$-FOLD HYPERSPACES</title>
-<titlt>MORE ON QUOTIENTS OF n-FOLD HYPERSPACES</titlt>
+<title>More on quotients of $n$-fold hyperspaces</title>
+<titlt>More on quotients of n-fold hyperspaces</titlt>
 <coauthors>
 <coauthor name="Javier Camargo" />
 </coauthors>
