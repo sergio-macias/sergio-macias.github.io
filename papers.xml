@@ -1213,6 +1213,20 @@
 <file type="pdf"  free="no">https://math.uh.edu/~hjm/restricted/pdf50(2)/12macias.pdf</file>
 </paper>
 
+<paper num="88">
+<title>$\C_1(X)$ on the edge of $\C_2(X)$</title>
+<titlt>C1(X) on the edge of C2(X) </titlt>
+<coauthors>
+<coauthor name="Javier Camargo" />
+<coauthor name="David Maya" />
+</coauthors>
+<magazine issn="1989-4147" vol="26-1" year="2025" begin-page="341" end-page="368">Applied General Topology</magazine>
+<link type="MathSciNet" code="yyy"></link>
+<link type="Zentralblatt" code="Zbl yyy"></link>
+<link type="DOI"  code="10.4995/agt.2025.22003" >https://doi.org/10.4995/agt.2025.22003</link>
+</paper>
+
+
 </research>
 </papers>
 
