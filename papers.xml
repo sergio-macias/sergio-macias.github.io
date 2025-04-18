@@ -1207,8 +1207,8 @@
 <coauthor name="Javier Camargo" />
 </coauthors>
 <magazine issn="0362-1588" vol="50-2" year="2024" begin-page="443" end-page="475">Houston Journal of Mathematics</magazine>
-<link type="MathSciNet" code="yyy"></link>
-<link type="Zentralblatt" code="Zbl yyy"></link>
+<link type="MathSciNet" code="MR4877080">https://mathscinet.ams.org/mathscinet-getitem?mr=4877080</link>
+<link type="Zentralblatt" code="Zbl 08027951">https://zbmath.org/08027951</link>
 <word one="zzz" two="zzz" three="zzz" />
 <file type="pdf"  free="no">https://math.uh.edu/~hjm/restricted/pdf50(2)/12macias.pdf</file>
 </paper>
@@ -1221,7 +1221,7 @@
 <coauthor name="David Maya" />
 </coauthors>
 <magazine issn="1989-4147" vol="26-1" year="2025" begin-page="341" end-page="368">Applied General Topology</magazine>
-<link type="MathSciNet" code="yyy"></link>
+<link type="MathSciNet" code="MR4886654">https://mathscinet.ams.org/mathscinet-getitem?mr=4886654</link>
 <link type="Zentralblatt" code="Zbl yyy"></link>
 <link type="DOI"  code="10.4995/agt.2025.22003" >https://doi.org/10.4995/agt.2025.22003</link>
 <file type="pdf"  free="yes">https://polipapers.upv.es/index.php/AGT/article/view/22003/17352</file>
