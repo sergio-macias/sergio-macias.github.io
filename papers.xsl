@@ -38,6 +38,8 @@
               </span>
             </div>
 
+            <a href="#bottom" >Last</a>
+
                 <div class="lista">
 
                 <xsl:for-each select="paper">
@@ -86,6 +88,8 @@
 
 
                 </div>
+
+                <a name="bottom"></a>
 
             </div> <!-- end main -->
 
