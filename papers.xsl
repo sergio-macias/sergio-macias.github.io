@@ -38,9 +38,11 @@
               </span>
             </div>
 
-            <a href="#bottom" >Last</a>
+
 
                 <div class="lista">
+                <a name="top" ></a>
+                <a href="#bottom" >Last</a>
 
                 <xsl:for-each select="paper">
 
@@ -87,11 +89,17 @@
   </xsl:for-each>
 
 
+
+
                 </div>
 
-                <a name="bottom"></a>
+
 
             </div> <!-- end main -->
+
+            <a href="#top">Top</a>
+            <a name="bottom"></a>
+
 
             <div id="footer">
             <p>Universidad Nacional Aut&#243;noma de M&#233;xico, Instituto de Matem&#225;ticas</p>
