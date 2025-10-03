@@ -36,12 +36,28 @@
 <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN'
  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
 
-<svg width='850' height='1600'
+<svg width='1000' height='1850'
 xmlns='http://www.w3.org/2000/svg'
 xmlns:xlink='http://www.w3.org/1999/xlink'>
 
 <style type='text/css'>
 <![CDATA[
+
+svg{
+
+   --color-1: #CCDBDC; /*azul gris claro - background de los nodos en general */
+   --color-2: #ecf39e; /* beige amarillo - background color del nodo guapo */
+   --color-3: #007EA7; /*azul intenso - para los bordes de los nodos */
+   --color-nombre: #003249; /*azul obscuro*/
+   --color-uni: #00a8e8; /*azul medio */
+   --color-tesis: #d1495b; /*rosa*/
+
+   --color-uni: #3176b3;
+
+
+
+}
+
 polygon.main
 {
   fill:none;
@@ -50,17 +66,17 @@ polygon.main
 g.node
 {
     stroke-width:4;
-    fill:#CCDBDC;
+    fill:var(--color-1);
 }
 
 g.main
 {
-fill:#ecf39e;
+fill:var(--color-2);
 }
 
 polygon.cajita, rect
 {
-    stroke:#007EA7;
+    stroke:var(--color-3);
     stroke-width:3;
 }
 
@@ -72,14 +88,14 @@ text
 text.uni
 {
     font-size=12;
-    fill:#00a8e8;
+    fill:var(--color-uni);
 }
 
 text.nombre
 {
     font-weight:bold;
     font-size=14;
-    fill:#003249;
+    fill:var(--color-nombre);
 }
 
 text.tesis
@@ -87,21 +103,21 @@ text.tesis
 
     font-style:italic;
     font-size=16;
-    fill:#d1495b;
+    fill:var(--color-tesis);
 }
 
 
 path.lineas, line
 {
     fill:none;
-    stroke:#007EA7;
+    stroke:var(--color-3);
     stroke-width:2;
 }
 
 ]]>
 </style>
 
-<g id='graph0' class='graph' transform='scale(0.6 0.6)'>
+<g id='graph0' class='graph' transform='scale(0.7 0.7)'>
 <polygon class='main' stroke='none' points='0,0 2000,0 2000,3300 0,3300 0,0'/>
 <g class='node'>
 <a xlink:href="https://en.wikipedia.org/wiki/Erhard_Weigel" xlink:title='Dr. phil. hab. Erhard Weigel' target='_blank'>
