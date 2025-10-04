@@ -18,6 +18,10 @@
            src="js/mathjax/MathJax.js?config=TeX-MML-AM_CHTML">
          </script>
 
+         <script type="text/javascript"
+           src="js/common.js">
+         </script>
+
          <script async="async" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
       </head>
       <body>
@@ -99,6 +103,7 @@
 
             <a href="#top">Top</a>
             <a name="bottom"></a>
+             <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 
             <div id="footer">

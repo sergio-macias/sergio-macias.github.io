@@ -5,6 +5,7 @@
 
  <html>
   <head>
+  <base target="_blank" />
 
   <style type="text/css">
 
