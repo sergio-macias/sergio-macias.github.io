@@ -1174,19 +1174,6 @@
 </paper>
 
 <paper num="85">
-<title>Another type of quotients of hyperspaces</title>
-<titlt>Another type of quotients of hyperspaces</titlt>
-<coauthors>
-<coauthor name="Fernando García" />
-</coauthors>
-<magazine issn="0146-4124" vol="65" year="2025" begin-page="75" end-page="97" >Topology Proceedings</magazine>
-<link type="MathSciNet" code="MR4824890">https://mathscinet.ams.org/mathscinet-getitem?mr=4824890</link>
-<link type="Zentralblatt" code="Zbl 8013579">https://zbmath.org/8013579</link>
-<file type="pdf" free="no">http://topology.nipissingu.ca/tp/reprints/v65/tp65005p1.pdf</file>
-<word one="yyy" two="yyy" three="yyy" />
-</paper>
-
-<paper num="86">
 <title>A fixed point theorem of actions on continua irreducible about a finite set and of type $\lambda$</title>
 <titlt>A fixed point theorem of actions on continua irreducible about a finite set and of type lambda</titlt>
 <coauthors>
@@ -1200,7 +1187,7 @@
 <word one="zzz" two="zzz" three="zzz" />
 </paper>
 
-<paper num="87">
+<paper num="85">
 <title>More on quotients of $n$-fold hyperspaces</title>
 <titlt>More on quotients of n-fold hyperspaces</titlt>
 <coauthors>
@@ -1213,7 +1200,7 @@
 <file type="pdf"  free="no">https://math.uh.edu/~hjm/restricted/pdf50(2)/12macias.pdf</file>
 </paper>
 
-<paper num="88">
+<paper num="87">
 <title>$C_1(X)$ on the edge of $C_2(X)$</title>
 <titlt>C1(X) on the edge of C2(X) </titlt>
 <coauthors>
@@ -1228,7 +1215,7 @@
 </paper>
 
 
-<paper num="89">
+<paper num="88">
 <title>On the set function $\wp$</title>
 <titlt>On the set function P</titlt>
 <coauthors>
@@ -1241,7 +1228,7 @@
 <word one="zzz" two="zzz" three="zzz" />
 </paper>
 
-<paper num="90">
+<paper num="89">
 <title>On the Property of Kelley for Hausdorff Continua</title>
 <titlt>On the Property of Kelley for Hausdorff Continua</titlt>
 <coauthors>
@@ -1254,6 +1241,16 @@
 <file type="pdf" free="yes">https://akjournals.com/downloadpdf/view/journals/314/31_NS5/1/article-p9.pdf</file>
 <openAccess>abc</openAccess>
 </paper>
+
+<paper num="90">
+<title>More on $\mathcal{T}$-closed sets</title>
+<titlt>More on T-closed sets</titlt>
+<coauthors>
+<coauthor name="Javier Camargo" />
+</coauthors>
+<magazine issn="1989-4147" vol="xxx" year="2025" begin-page="0" end-page="0">Applied General Topology</magazine>
+</paper>
+
 
 </research>
 </papers>
