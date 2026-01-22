@@ -1248,7 +1248,13 @@
 <coauthors>
 <coauthor name="Javier Camargo" />
 </coauthors>
-<magazine issn="1989-4147" vol="xxx" year="2025" begin-page="0" end-page="0">Applied General Topology</magazine>
+<magazine issn="1989-4147" vol="27-1" year="2025" begin-page="1" end-page="26">Applied General Topology</magazine>
+<link type="MathSciNet" code="yyy"></link>
+<link type="Zentralblatt" code="Zbl yyy"></link>
+<link type="DOI"  code="10.4995/agt.23481" >https://doi.org/10.4995/agt.23481</link>
+<file type="pdf" free="yes">https://polipapers.upv.es/index.php/AGT/article/view/23481/18065</file>
+<openAccess>abc</openAccess>
+
 </paper>
 
 
