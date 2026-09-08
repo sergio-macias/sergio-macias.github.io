@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet type="text/xsl" href="papers.xsl"?>
 
 <papers>
@@ -1225,7 +1225,8 @@
 <link type="MathSciNet" code="MR4899033">https://mathscinet.ams.org/mathscinet-getitem?mr=4899033</link>
 <link type="Zentralblatt" code="Zbl 08063789">https://zbmath.org/08063789</link>
 <link type="DOI"  code="10.14712/1213-7243.2025.002" >https://dml.cz/handle/10338.dmlcz/152947</link>
-<file type="pdf"  free="yes">https://cmuc.karlin.mff.cuni.cz/cmuc2401/abs/macias.pdf</file>
+<file type="pdf"  free="yes">https://dml.cz/bitstream/handle/10338.dmlcz/152947/CommentatMathUnivCarolRetro_65-2024-1_8.pdf</file>
+<openAccess>abc</openAccess>
 <word one="zzz" two="zzz" three="zzz" />
 </paper>
 
