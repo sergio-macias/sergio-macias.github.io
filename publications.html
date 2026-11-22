@@ -1,0 +1,216 @@
+<html>
+    <head>
+    <meta charset="utf8" />
+    <title>Sergio Mac&#237;as</title>
+    <link rel="stylesheet" type="text/css" href="css/common.css">
+    <link rel="stylesheet" type="text/css" href="css/stickyHeader.css">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+    <script type="text/javascript" async="async"
+        src="js/mathjax/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+        });
+    </script>
+
+    <script type="text/javascript"    src="js/common.js"> </script>
+    <script async="async" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.13.0/sql-wasm.js" integrity="sha512-Yra4xuTWinXfBpG2ftgDX8MVmMiOev1FtqiYs51+kEna/5peD0kZqAL1syYCH61f9gxmAFidIJz42IKcRhWMkw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+  <script>
+
+  async function start(query) {
+
+    const sqlPromise = initSqlJs({
+        locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.13.0/sql-wasm.wasm`
+    });
+
+    const dataPromise = fetch("./demo.db").then(res => res.arrayBuffer());
+    const [SQL, buf] = await Promise.all([sqlPromise, dataPromise])
+    const db = new SQL.Database(new Uint8Array(buf));
+
+    const contents = db.exec(query);
+
+    let max = contents[0]['values'].length;
+
+    mainContainer = document.getElementById("mainContainer");
+
+    for (i=0; i<max; i++)
+    {
+
+        let paper_id = contents[0]['values'][i][0];
+        let paper_title = contents[0]['values'][i][1];
+        let magazine_id = contents[0]['values'][i][2];
+        let magazine = contents[0]['values'][i][3];
+        let vol = contents[0]['values'][i][4];
+        let year = contents[0]['values'][i][5];
+        let start_page = contents[0]['values'][i][6];
+        let end_page = contents[0]['values'][i][7];
+        let mathscinet = contents[0]['values'][i][8];
+        let zentralblatt = contents[0]['values'][i][9];
+        let googlescholar = contents[0]['values'][i][10];
+        let researchgate = contents[0]['values'][i][11];
+        let pdffile = contents[0]['values'][i][12];
+        let keywords = contents[0]['values'][i][13];
+        let coauthors = contents[0]['values'][i][14];
+        let doi = contents[0]['values'][i][15];
+        let openaccess = contents[0]['values'][i][16];
+        let english_title = contents[0]['values'][i][17];
+
+
+        caja = document.createElement("div");
+        caja.setAttribute("class","entry-btm");
+
+        par1 = document.createElement("p");
+        span1 = document.createElement("span");
+        span1.setAttribute("class","papertitle");
+        span1.innerHTML = "[D"+paper_id+"] " +paper_title;
+
+        englishTitle = document.createTextNode("  (" + english_title + ")");
+
+
+
+        par1.appendChild(span1);
+        par1.appendChild(englishTitle);
+
+        par2 = document.createElement("p");
+        par2_str = magazine + " (ISSN " + magazine_id + ") &nbsp; " + vol + ", " + year;
+
+        if (start_page != "xxx")
+        {
+            par2_str = par2_str + " (pages: " + start_page + "-" + end_page + ")";
+        }
+
+        par2.innerHTML = par2_str;
+
+        par3 = document.createElement("p");
+
+        if (mathscinet.length > 0)
+        {
+            link_mathscinet =  document.createElement("a");
+            link_mathscinet.setAttribute("class","MathSciNet");
+            link_mathscinet.setAttribute("href","https://mathscinet.ams.org/mathscinet-getitem?mr=" + mathscinet.replace('MR',''));
+            link_mathscinet.innerHTML = mathscinet ;
+            par3.appendChild(link_mathscinet);
+        }
+
+        if (zentralblatt.length > 0)
+        {
+            link_zentralblatt =  document.createElement("a");
+            link_zentralblatt.setAttribute("class","Zentralblatt");
+            link_zentralblatt.setAttribute("href","http://zbmath.org/" + zentralblatt.replace('Zbl ',''));
+            link_zentralblatt.innerHTML = zentralblatt;
+            par3.appendChild(link_zentralblatt);
+        }
+
+
+        if (doi.length > 0)
+        {
+            link_doi =  document.createElement("a");
+            link_doi.setAttribute("class","DOI");
+            link_doi.setAttribute("href","http://dx.doi.org/" + doi);
+            link_doi.innerHTML = "DOI: " + doi;
+            par3.appendChild(link_doi);
+        }
+
+        if (pdffile.length > 0)
+        {
+            span2 = document.createElement("span");
+            span2.setAttribute("class","files");
+
+            link_files = document.createElement("a");
+            link_files.setAttribute("class","yes");
+            link_files.setAttribute("href",pdffile);
+
+
+            image = document.createElement("img");
+            image.setAttribute("src","images/pdf.gif");
+
+            link_files.appendChild(image);
+            span2.appendChild(link_files);
+            par3.appendChild(span2);
+        }
+
+        caja.appendChild(par1);
+        caja.appendChild(par2);
+        caja.appendChild(par3);
+        mainContainer.appendChild(caja);
+     }
+
+
+
+}
+
+start("SELECT ID, TITLE, IDMAGAZINE, MAGAZINE, VOL, YEAR, STARTPAGE, ENDPAGE, MATHSCINET, ZENTRALBLATT, GOOGLESCHOLAR, RESEARCHGATE, PDFFILE, KEYWORDS, COAUTHORS, DOI, OPENACCESS, TITLT FROM NON_RESEARCH_PAPERS where id < 200");
+
+function doQuery(query)
+{
+
+    table = document.getElementById("results");
+    table.innerHTML = "";
+
+    start(query);
+
+
+}
+
+
+  </script>
+  </head>
+  <body>
+
+  <header class="hero">
+
+        <div class="header">
+    <a href="/">Sergio Mac&#237;as</a>
+
+    <!-- End #logo -->
+    <span class="menu">
+    <a href="papers.html" class="selected">Research Papers</a>
+    <a href="books.html" >Books</a>
+    <a href="publications.html" >Non-ResearchPapers</a>
+    <a href="genealogy.html" >Genealogy</a>
+    <a href="tree.html">Tree</a>
+    <a href="contact.html" >Contact</a>
+    </span>
+    </div>
+
+
+  </header>
+  <main>
+
+    <div class="fondo">
+    <div class="main">
+
+
+
+    <div id="mainContainer" class="lista">
+
+
+    <!--
+    <a name="top" ></a>
+    <a href="#bottom" >Last</a>
+
+    <a href="#top">Top</a>
+    <a name="bottom"></a>
+
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+    -->
+
+    </main>
+
+    <div id="footer">
+    <p></p>
+    </div>
+
+    </div>
+
+  </body>
+</html>
