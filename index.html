@@ -61,6 +61,7 @@
         let coauthors = contents[0]['values'][i][14];
         let doi = contents[0]['values'][i][15];
         let openaccess = contents[0]['values'][i][16];
+        let coautores = contents[0]['values'][i][17];
 
 
         caja = document.createElement("div");
@@ -76,6 +77,26 @@
         par2 = document.createElement("p");
         par2_str = magazine + " (ISSN " + magazine_id + ") &nbsp; " + vol + ", " + year + " (pages: " + start_page + "-" + end_page + ")";
         par2.innerHTML = par2_str;
+
+        par2a = document.createElement("p");
+
+        if (coautores)
+        {
+            coauth_label = document.createTextNode("Coauthors: ");
+            lista_coauth = document.createElement("ul");
+
+            par2a.appendChild(coauth_label);
+            par2a.appendChild(lista_coauth);
+
+            myArray = coautores.split("|");
+            max = myArray.length -1;
+            for (i=0; i<max; i++)
+            {
+                item = document.createElement("li");
+                item.innerHTML = myArray[i];
+                lista_coauth.appendChild(item);
+            }
+        }
 
         par3 = document.createElement("p");
 
@@ -127,6 +148,7 @@
 
         caja.appendChild(par1);
         caja.appendChild(par2);
+        caja.appendChild(par2a);
         caja.appendChild(par3);
         mainContainer.appendChild(caja);
      }
@@ -135,7 +157,7 @@
 
 }
 
-start("SELECT ID, TITLE, IDMAGAZINE, MAGAZINE, VOL, YEAR, STARTPAGE, ENDPAGE, MATHSCINET, ZENTRALBLATT, GOOGLESCHOLAR, RESEARCHGATE, PDFFILE, KEYWORDS, COAUTHORS, DOI, OPENACCESS FROM PAPERS where id < 200");
+start("SELECT ID, TITLE, IDMAGAZINE, MAGAZINE, VOL, YEAR, STARTPAGE, ENDPAGE, MATHSCINET, ZENTRALBLATT, GOOGLESCHOLAR, RESEARCHGATE, PDFFILE, KEYWORDS, COAUTHORS, DOI, OPENACCESS, COAUTHORS FROM PAPERS where id < 200");
 
 function doQuery(query)
 {
